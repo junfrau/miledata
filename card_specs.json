@@ -49,7 +49,8 @@
       },
       "sourceNote": "seed-2026-09-27",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": null,
+      "loungeAccess": "Priority Pass"
     },
     {
       "annualFee": 0,
@@ -152,7 +153,8 @@
       },
       "sourceNote": "seed-2026-09-27: 5x flights booked direct or via Amex Travel (up to $500k/yr)",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": null,
+      "loungeAccess": "Centurion, Priority Pass, Delta Sky Club"
     },
     {
       "annualFee": 95,
@@ -203,7 +205,8 @@
       },
       "sourceNote": "seed-2026-09-27: 10x hotels/cars via Capital One Travel, 5x flights via portal",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": null,
+      "loungeAccess": "Priority Pass, Capital One Lounge"
     },
     {
       "annualFee": 95,
@@ -332,31 +335,6 @@
       "previousSignupBonus": null
     },
     {
-      "annualFee": 0,
-      "applyUrl": "https://www.discover.com/credit-cards/cash-back/it-card/",
-      "cardName": "it Cash Back",
-      "category": "general",
-      "categoryMultipliers": {
-        "기타": 1,
-        "마트/식료품": 1,
-        "여행": 1,
-        "외식": 1,
-        "주유": 1
-      },
-      "issuer": "Discover",
-      "pointValueCpp": 1.0,
-      "rewardCurrency": "Cashback",
-      "signupBonus": {
-        "bonus": "Cashback Match (first year)",
-        "description": "Unlimited Cashback Match: Discover matches all cash back you earn in the first year (no minimum spend)",
-        "estimatedValueUsd": 0,
-        "spend": "no minimum spend"
-      },
-      "sourceNote": "seed-2026-09-27: 5% on rotating quarterly categories (up to $1500/qtr, activation required)",
-      "isBusiness": false,
-      "previousSignupBonus": null
-    },
-    {
       "annualFee": 95,
       "applyUrl": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
       "brand": "Marriott",
@@ -415,7 +393,8 @@
       },
       "sourceNote": "seed-2026-09-27: 14x Hilton stays, 7x flights/dining/car rentals",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": null,
+      "loungeAccess": "Priority Pass"
     },
     {
       "annualFee": 95,
@@ -532,7 +511,8 @@
       },
       "sourceNote": "seed-2026-09-27: 3x Delta purchases",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": null,
+      "loungeAccess": "Delta Sky Club, Centurion"
     },
     {
       "airlineBonusMiles": 125000,
@@ -560,7 +540,8 @@
       },
       "sourceNote": "seed-2026-09-27: 4x eligible AA purchases; fee raised from $595 in Aug 2026",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": null,
+      "loungeAccess": "Admirals Club"
     },
     {
       "airlineBonusMiles": 50000,
@@ -698,7 +679,8 @@
       "hotelFreeNight": {
         "maxValueUsd": 595,
         "nights": 1
-      }
+      },
+      "loungeAccess": "Priority Pass"
     },
     {
       "issuer": "American Express",
@@ -919,7 +901,8 @@
         "estimatedValueUsd": 1080
       },
       "previousSignupBonus": null,
-      "airlineBonusMiles": 90000
+      "airlineBonusMiles": 90000,
+      "loungeAccess": "United Club"
     },
     {
       "issuer": "Chase",
@@ -1087,7 +1070,8 @@
         "note": "limited-time, ends Nov 4, 2026"
       },
       "previousSignupBonus": null,
-      "airlineBonusMiles": 200000
+      "airlineBonusMiles": 200000,
+      "loungeAccess": "Delta Sky Club, Centurion"
     },
     {
       "issuer": "Citi",
@@ -1400,7 +1384,8 @@
         "estimatedValueUsd": 6000,
         "note": "offer varies by applicant"
       },
-      "previousSignupBonus": null
+      "previousSignupBonus": null,
+      "loungeAccess": "Centurion, Priority Pass, Delta Sky Club"
     },
     {
       "issuer": "Capital One",
