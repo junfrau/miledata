@@ -1,1 +1,1459 @@
-{"bonusUpdatedAt":"2026-09-27","cards":[{"annualFee":95,"applyUrl":"https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred","cardName":"Sapphire Preferred","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":3,"여행":5,"외식":3,"주유":1},"issuer":"Chase","pointValueCpp":2.05,"rewardCurrency":"Ultimate Rewards","signupBonus":{"bonus":"75,000 points","description":"Earn 75,000 bonus points after you spend $5,000 on purchases in the first 3 months","estimatedValueUsd":1500,"spend":"$5,000 in 3 months"},"sourceNote":"seed-2026-09-27"},{"annualFee":795,"applyUrl":"https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve","cardName":"Sapphire Reserve","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":8,"외식":3,"주유":1},"issuer":"Chase","pointValueCpp":2.05,"rewardCurrency":"Ultimate Rewards","signupBonus":{"bonus":"100,000 points","description":"Earn 100,000 bonus points after you spend $6,000 on purchases in the first 3 months","estimatedValueUsd":2000,"spend":"$6,000 in 3 months"},"sourceNote":"seed-2026-09-27"},{"annualFee":0,"applyUrl":"https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited","cardName":"Freedom Unlimited","category":"general","categoryMultipliers":{"기타":1.5,"마트/식료품":1.5,"여행":5,"외식":3,"주유":1.5},"issuer":"Chase","pointValueCpp":1.0,"rewardCurrency":"Cashback","signupBonus":{"bonus":"$200","description":"Earn a $200 bonus after you spend $500 on purchases in the first 3 months","estimatedValueUsd":200,"spend":"$500 in 3 months"},"sourceNote":"seed-2026-09-27"},{"annualFee":0,"applyUrl":"https://creditcards.chase.com/cash-back-credit-cards/freedom/flex","cardName":"Freedom Flex","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":5,"외식":3,"주유":1},"issuer":"Chase","pointValueCpp":1.0,"rewardCurrency":"Cashback","signupBonus":{"bonus":"$250","description":"Earn a $250 bonus after you spend $500 on purchases in the first 3 months [limited-time]","estimatedValueUsd":250,"note":"limited-time offer","spend":"$500 in 3 months"},"sourceNote":"seed-2026-09-27: 5% on rotating quarterly categories (up to $1500/qtr, activation required)"},{"annualFee":325,"applyUrl":"https://www.americanexpress.com/us/credit-cards/card/gold-card/","cardName":"Gold","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":4,"여행":3,"외식":4,"주유":1},"issuer":"American Express","pointValueCpp":2.0,"rewardCurrency":"Membership Rewards","signupBonus":{"bonus":"up to 100,000 points","description":"Earn as high as 100,000 Membership Rewards points after you spend $8,000 in the first 6 months (offers vary)","estimatedValueUsd":2000,"note":"offer varies by applicant","spend":"$8,000 in 6 months"},"sourceNote":"seed-2026-09-27: 4x dining (up to $50k/yr), 4x US supermarkets (up to $25k/yr)"},{"annualFee":895,"applyUrl":"https://www.americanexpress.com/us/credit-cards/card/platinum/","cardName":"Platinum","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":5,"외식":1,"주유":1},"issuer":"American Express","pointValueCpp":2.0,"rewardCurrency":"Membership Rewards","signupBonus":{"bonus":"up to 175,000 points","description":"Earn as high as 175,000 Membership Rewards points after you spend $12,000 in the first 6 months (offers vary)","estimatedValueUsd":3500,"note":"offer varies by applicant","spend":"$12,000 in 6 months"},"sourceNote":"seed-2026-09-27: 5x flights booked direct or via Amex Travel (up to $500k/yr)"},{"annualFee":95,"applyUrl":"https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/25330","cardName":"Blue Cash Preferred","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":6,"여행":1,"외식":1,"주유":3},"issuer":"American Express","pointValueCpp":1.0,"rewardCurrency":"Cashback","signupBonus":{"bonus":"up to $300","description":"Earn as high as $300 back after you spend $3,000 in the first 6 months (offers vary) [limited-time]","estimatedValueUsd":300,"note":"limited-time offer","spend":"$3,000 in 6 months"},"sourceNote":"seed-2026-09-27: 6% US supermarkets (up to $6k/yr), $0 intro annual fee first year"},{"annualFee":395,"applyUrl":"https://www.capitalone.com/credit-cards/venture-x/","cardName":"Venture X","category":"general","categoryMultipliers":{"기타":2,"마트/식료품":2,"여행":10,"외식":2,"주유":2},"issuer":"Capital One","pointValueCpp":1.85,"rewardCurrency":"Capital One Miles","signupBonus":{"bonus":"75,000 miles","description":"Earn 75,000 bonus miles after you spend $4,000 on purchases in the first 3 months","estimatedValueUsd":1388,"spend":"$4,000 in 3 months"},"sourceNote":"seed-2026-09-27: 10x hotels/cars via Capital One Travel, 5x flights via portal"},{"annualFee":95,"applyUrl":"https://www.capitalone.com/credit-cards/venture/","cardName":"Venture","category":"general","categoryMultipliers":{"기타":2,"마트/식료품":2,"여행":5,"외식":2,"주유":2},"issuer":"Capital One","pointValueCpp":1.85,"rewardCurrency":"Capital One Miles","signupBonus":{"bonus":"75,000 miles + $300 travel credit","description":"Earn 75,000 bonus miles after you spend $4,000 in the first 3 months, plus a $300 Capital One Travel credit in the first year [limited-time]","estimatedValueUsd":1688,"note":"limited-time; $300 credit is first-year only","spend":"$4,000 in 3 months"},"sourceNote":"seed-2026-09-27: 5x hotels/cars via Capital One Travel"},{"annualFee":0,"applyUrl":"https://www.capitalone.com/credit-cards/savor/","cardName":"Savor","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":3,"여행":5,"외식":3,"주유":1},"issuer":"Capital One","pointValueCpp":1.0,"rewardCurrency":"Cashback","signupBonus":{"bonus":"$200","description":"Earn a $200 bonus after you spend $500 on purchases in the first 3 months","estimatedValueUsd":200,"spend":"$500 in 3 months"},"sourceNote":"seed-2026-09-27: 3% dining/entertainment/streaming/grocery (excl. superstores)"},{"annualFee":95,"applyUrl":"https://www.citi.com/credit-cards/citi-strata-premier-credit-card","cardName":"Strata Premier","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":3,"여행":10,"외식":3,"주유":3},"issuer":"Citi","pointValueCpp":1.8,"rewardCurrency":"ThankYou Points","signupBonus":{"bonus":"60,000 points","description":"Earn 60,000 bonus ThankYou Points after you spend $4,000 in the first 3 months","estimatedValueUsd":1080,"spend":"$4,000 in 3 months"},"sourceNote":"seed-2026-09-27: 3x air/hotel/dining/supermarket/gas, 10x via Citi Travel"},{"annualFee":0,"applyUrl":"https://www.citi.com/credit-cards/citi-double-cash-credit-card","cardName":"Double Cash","category":"general","categoryMultipliers":{"기타":2,"마트/식료품":2,"여행":2,"외식":2,"주유":2},"issuer":"Citi","pointValueCpp":1.0,"rewardCurrency":"Cashback","signupBonus":{"bonus":"$200 (20,000 points)","description":"Earn $200 (as 20,000 ThankYou Points) after you spend $1,500 in the first 6 months","estimatedValueUsd":200,"spend":"$1,500 in 6 months"},"sourceNote":"seed-2026-09-27: 2% (1% on purchase + 1% on payment)"},{"annualFee":0,"applyUrl":"https://creditcards.wellsfargo.com/active-cash-credit-card","cardName":"Active Cash","category":"general","categoryMultipliers":{"기타":2,"마트/식료품":2,"여행":2,"외식":2,"주유":2},"issuer":"Wells Fargo","pointValueCpp":1.0,"rewardCurrency":"Cashback","signupBonus":{"bonus":"$100","description":"Earn a $100 bonus after you spend $500 in the first 3 months","estimatedValueUsd":100,"spend":"$500 in 3 months"},"sourceNote":"seed-2026-09-27"},{"annualFee":0,"applyUrl":"https://www.discover.com/credit-cards/cash-back/it-card/","cardName":"it Cash Back","category":"general","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":1,"외식":1,"주유":1},"issuer":"Discover","pointValueCpp":1.0,"rewardCurrency":"Cashback","signupBonus":{"bonus":"Cashback Match (first year)","description":"Unlimited Cashback Match: Discover matches all cash back you earn in the first year (no minimum spend)","estimatedValueUsd":0,"spend":"no minimum spend"},"sourceNote":"seed-2026-09-27: 5% on rotating quarterly categories (up to $1500/qtr, activation required)"},{"annualFee":95,"applyUrl":"https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless","brand":"Marriott","cardName":"Marriott Bonvoy Boundless","category":"hotel","categoryMultipliers":{"기타":2,"마트/식료품":3,"여행":6,"외식":3,"주유":3},"hotelFreeNight":{"maxValueUsd":280,"nights":1},"issuer":"Chase","pointValueCpp":0.75,"rewardCurrency":"Marriott Bonvoy","signupBonus":{"bonus":"3 Free Night Awards (up to 50,000 pts each)","description":"Earn 3 Free Night Awards (up to 50,000 points each) after you spend $3,000 in the first 3 months","estimatedValueUsd":1300,"spend":"$3,000 in 3 months"},"sourceNote":"seed-2026-09-27: 6x Marriott stays, 3x dining/gas/grocery (first $6k/yr combined)"},{"annualFee":550,"applyUrl":"https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/","brand":"Hilton","cardName":"Hilton Honors Aspire","category":"hotel","categoryMultipliers":{"기타":3,"마트/식료품":3,"여행":14,"외식":7,"주유":3},"hotelFreeNight":{"maxValueUsd":null,"nights":1},"issuer":"American Express","pointValueCpp":0.4,"rewardCurrency":"Hilton Honors","signupBonus":{"bonus":"200,000 points","description":"Earn 200,000 Hilton Honors points after you spend $6,000 in the first 6 months [limited-time, ends Jan 13, 2027]","estimatedValueUsd":1200,"note":"limited-time, ends Jan 13, 2027","spend":"$6,000 in 6 months"},"sourceNote":"seed-2026-09-27: 14x Hilton stays, 7x flights/dining/car rentals"},{"annualFee":95,"applyUrl":"https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card","brand":"Hyatt","cardName":"World of Hyatt","category":"hotel","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":4,"외식":2,"주유":1},"hotelFreeNight":{"maxValueUsd":255,"nights":1},"issuer":"Chase","pointValueCpp":1.7,"rewardCurrency":"World of Hyatt","signupBonus":{"bonus":"up to 60,000 points","description":"Earn up to 60,000 bonus points: 30,000 after $3,000 in 3 months, plus up to 30,000 more with 2x on up to $15,000 in 6 months","estimatedValueUsd":1020,"note":"tiered","spend":"$3,000 in 3 months, then $15,000 in 6 months"},"sourceNote":"seed-2026-09-27: 4x Hyatt stays, 2x dining/airlines/transit/fitness"},{"annualFee":99,"applyUrl":"https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier","brand":"IHG","cardName":"IHG One Rewards Premier","category":"hotel","categoryMultipliers":{"기타":3,"마트/식료품":3,"여행":10,"외식":5,"주유":5},"hotelFreeNight":{"maxValueUsd":200,"nights":1},"issuer":"Chase","pointValueCpp":0.6,"rewardCurrency":"IHG One Rewards","signupBonus":{"bonus":"140,000 points","description":"Earn 140,000 bonus points after you spend $3,000 in the first 3 months","estimatedValueUsd":700,"spend":"$3,000 in 3 months"},"sourceNote":"seed-2026-09-27: 10x IHG stays, 5x travel/dining/gas"},{"airlineBonusMiles":60000,"annualFee":150,"applyUrl":"https://creditcards.chase.com/travel-credit-cards/united/united-explorer","brand":"United","cardName":"United Explorer","category":"airline","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":2,"외식":2,"주유":1},"issuer":"Chase","pointValueCpp":1.2,"rewardCurrency":"United MileagePlus","signupBonus":{"bonus":"up to 60,000 miles","description":"Earn up to 60,000 bonus miles: 50,000 after $3,000 in 3 months, plus 10,000 for adding an authorized user","estimatedValueUsd":720,"note":"10,000 miles require an authorized-user purchase","spend":"$3,000 in 3 months"},"sourceNote":"seed-2026-09-27: $0 intro annual fee first year, 2x United/dining/hotels"},{"airlineBonusMiles":50000,"annualFee":650,"applyUrl":"https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/","brand":"Delta","cardName":"Delta SkyMiles Reserve","category":"airline","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":3,"외식":1,"주유":1},"issuer":"American Express","pointValueCpp":1.2,"rewardCurrency":"Delta SkyMiles","signupBonus":{"bonus":"50,000 miles + 2 domestic round-trip Comfort certificates","description":"Limited-time (ends Nov 4, 2026): 2 domestic round-trip Delta Comfort Flight Certificates plus 50,000 bonus miles after $10,000 in 6 months","estimatedValueUsd":550,"note":"limited-time, ends Nov 4, 2026","spend":"$10,000 in 6 months"},"sourceNote":"seed-2026-09-27: 3x Delta purchases"},{"airlineBonusMiles":125000,"annualFee":695,"applyUrl":"https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard","brand":"American","cardName":"AAdvantage Executive World Elite","category":"airline","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":4,"외식":1,"주유":1},"issuer":"Citi","pointValueCpp":1.7,"rewardCurrency":"American AAdvantage","signupBonus":{"bonus":"125,000 miles","description":"Earn 125,000 bonus miles after you spend $15,000 in the first 5 months [limited-time]","estimatedValueUsd":1750,"note":"limited-time","spend":"$15,000 in 5 months"},"sourceNote":"seed-2026-09-27: 4x eligible AA purchases; fee raised from $595 in Aug 2026"},{"airlineBonusMiles":50000,"annualFee":95,"applyUrl":"https://www.bankofamerica.com/credit-cards/products/alaska-airlines-credit-card/","brand":"Alaska","cardName":"Atmos Rewards Ascent","category":"airline","categoryMultipliers":{"기타":1,"마트/식료품":1,"여행":3,"외식":1,"주유":1},"issuer":"Bank of America","pointValueCpp":1.3,"rewardCurrency":"Atmos Rewards","signupBonus":{"bonus":"50,000 points + $99 companion fare","description":"Limited-time online offer: 50,000 bonus points plus a $99 companion fare after $1,500 in 90 days","estimatedValueUsd":700,"note":"limited-time online offer","spend":"$1,500 in 90 days"},"sourceNote":"seed-2026-09-27: formerly Alaska Airlines Visa Signature; 3x Alaska/Hawaiian purchases"}],"notes":"Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.","updatedAt":"2026-09-27","version":1}
+{
+  "bonusUpdatedAt": "2026-09-28",
+  "cards": [
+    {
+      "annualFee": 95,
+      "applyUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+      "cardName": "Sapphire Preferred",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 3,
+        "여행": 5,
+        "외식": 3,
+        "주유": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 2.05,
+      "rewardCurrency": "Ultimate Rewards",
+      "signupBonus": {
+        "bonus": "75,000 points",
+        "description": "Earn 75,000 bonus points after you spend $5,000 on purchases in the first 3 months",
+        "estimatedValueUsd": 1500,
+        "spend": "$5,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 795,
+      "applyUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+      "cardName": "Sapphire Reserve",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 8,
+        "외식": 3,
+        "주유": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 2.05,
+      "rewardCurrency": "Ultimate Rewards",
+      "signupBonus": {
+        "bonus": "100,000 points",
+        "description": "Earn 100,000 bonus points after you spend $6,000 on purchases in the first 3 months",
+        "estimatedValueUsd": 2000,
+        "spend": "$6,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 0,
+      "applyUrl": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+      "cardName": "Freedom Unlimited",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1.5,
+        "마트/식료품": 1.5,
+        "여행": 5,
+        "외식": 3,
+        "주유": 1.5
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 1.0,
+      "rewardCurrency": "Cashback",
+      "signupBonus": {
+        "bonus": "$200",
+        "description": "Earn a $200 bonus after you spend $500 on purchases in the first 3 months",
+        "estimatedValueUsd": 200,
+        "spend": "$500 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 0,
+      "applyUrl": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+      "cardName": "Freedom Flex",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 5,
+        "외식": 3,
+        "주유": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 1.0,
+      "rewardCurrency": "Cashback",
+      "signupBonus": {
+        "bonus": "$250",
+        "description": "Earn a $250 bonus after you spend $500 on purchases in the first 3 months [limited-time]",
+        "estimatedValueUsd": 250,
+        "note": "limited-time offer",
+        "spend": "$500 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 5% on rotating quarterly categories (up to $1500/qtr, activation required)",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 325,
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+      "cardName": "Gold",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 4,
+        "여행": 3,
+        "외식": 4,
+        "주유": 1
+      },
+      "issuer": "American Express",
+      "pointValueCpp": 2.0,
+      "rewardCurrency": "Membership Rewards",
+      "signupBonus": {
+        "bonus": "up to 100,000 points",
+        "description": "Earn as high as 100,000 Membership Rewards points after you spend $8,000 in the first 6 months (offers vary)",
+        "estimatedValueUsd": 2000,
+        "note": "offer varies by applicant",
+        "spend": "$8,000 in 6 months"
+      },
+      "sourceNote": "seed-2026-09-27: 4x dining (up to $50k/yr), 4x US supermarkets (up to $25k/yr)",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 895,
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+      "cardName": "Platinum",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 5,
+        "외식": 1,
+        "주유": 1
+      },
+      "issuer": "American Express",
+      "pointValueCpp": 2.0,
+      "rewardCurrency": "Membership Rewards",
+      "signupBonus": {
+        "bonus": "up to 175,000 points",
+        "description": "Earn as high as 175,000 Membership Rewards points after you spend $12,000 in the first 6 months (offers vary)",
+        "estimatedValueUsd": 3500,
+        "note": "offer varies by applicant",
+        "spend": "$12,000 in 6 months"
+      },
+      "sourceNote": "seed-2026-09-27: 5x flights booked direct or via Amex Travel (up to $500k/yr)",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 95,
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/25330",
+      "cardName": "Blue Cash Preferred",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 6,
+        "여행": 1,
+        "외식": 1,
+        "주유": 3
+      },
+      "issuer": "American Express",
+      "pointValueCpp": 1.0,
+      "rewardCurrency": "Cashback",
+      "signupBonus": {
+        "bonus": "up to $300",
+        "description": "Earn as high as $300 back after you spend $3,000 in the first 6 months (offers vary) [limited-time]",
+        "estimatedValueUsd": 300,
+        "note": "limited-time offer",
+        "spend": "$3,000 in 6 months"
+      },
+      "sourceNote": "seed-2026-09-27: 6% US supermarkets (up to $6k/yr), $0 intro annual fee first year",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 395,
+      "applyUrl": "https://www.capitalone.com/credit-cards/venture-x/",
+      "cardName": "Venture X",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 2,
+        "마트/식료품": 2,
+        "여행": 10,
+        "외식": 2,
+        "주유": 2
+      },
+      "issuer": "Capital One",
+      "pointValueCpp": 1.85,
+      "rewardCurrency": "Capital One Miles",
+      "signupBonus": {
+        "bonus": "75,000 miles",
+        "description": "Earn 75,000 bonus miles after you spend $4,000 on purchases in the first 3 months",
+        "estimatedValueUsd": 1388,
+        "spend": "$4,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 10x hotels/cars via Capital One Travel, 5x flights via portal",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 95,
+      "applyUrl": "https://www.capitalone.com/credit-cards/venture/",
+      "cardName": "Venture",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 2,
+        "마트/식료품": 2,
+        "여행": 5,
+        "외식": 2,
+        "주유": 2
+      },
+      "issuer": "Capital One",
+      "pointValueCpp": 1.85,
+      "rewardCurrency": "Capital One Miles",
+      "signupBonus": {
+        "bonus": "75,000 miles + $300 travel credit",
+        "description": "Earn 75,000 bonus miles after you spend $4,000 in the first 3 months, plus a $300 Capital One Travel credit in the first year [limited-time]",
+        "estimatedValueUsd": 1688,
+        "note": "limited-time; $300 credit is first-year only",
+        "spend": "$4,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 5x hotels/cars via Capital One Travel",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 0,
+      "applyUrl": "https://www.capitalone.com/credit-cards/savor/",
+      "cardName": "Savor",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 3,
+        "여행": 5,
+        "외식": 3,
+        "주유": 1
+      },
+      "issuer": "Capital One",
+      "pointValueCpp": 1.0,
+      "rewardCurrency": "Cashback",
+      "signupBonus": {
+        "bonus": "$200",
+        "description": "Earn a $200 bonus after you spend $500 on purchases in the first 3 months",
+        "estimatedValueUsd": 200,
+        "spend": "$500 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 3% dining/entertainment/streaming/grocery (excl. superstores)",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 95,
+      "applyUrl": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card",
+      "cardName": "Strata Premier",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 3,
+        "여행": 10,
+        "외식": 3,
+        "주유": 3
+      },
+      "issuer": "Citi",
+      "pointValueCpp": 1.8,
+      "rewardCurrency": "ThankYou Points",
+      "signupBonus": {
+        "bonus": "60,000 points",
+        "description": "Earn 60,000 bonus ThankYou Points after you spend $4,000 in the first 3 months",
+        "estimatedValueUsd": 1080,
+        "spend": "$4,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 3x air/hotel/dining/supermarket/gas, 10x via Citi Travel",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 0,
+      "applyUrl": "https://www.citi.com/credit-cards/citi-double-cash-credit-card",
+      "cardName": "Double Cash",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 2,
+        "마트/식료품": 2,
+        "여행": 2,
+        "외식": 2,
+        "주유": 2
+      },
+      "issuer": "Citi",
+      "pointValueCpp": 1.0,
+      "rewardCurrency": "Cashback",
+      "signupBonus": {
+        "bonus": "$200 (20,000 points)",
+        "description": "Earn $200 (as 20,000 ThankYou Points) after you spend $1,500 in the first 6 months",
+        "estimatedValueUsd": 200,
+        "spend": "$1,500 in 6 months"
+      },
+      "sourceNote": "seed-2026-09-27: 2% (1% on purchase + 1% on payment)",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 0,
+      "applyUrl": "https://creditcards.wellsfargo.com/active-cash-credit-card",
+      "cardName": "Active Cash",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 2,
+        "마트/식료품": 2,
+        "여행": 2,
+        "외식": 2,
+        "주유": 2
+      },
+      "issuer": "Wells Fargo",
+      "pointValueCpp": 1.0,
+      "rewardCurrency": "Cashback",
+      "signupBonus": {
+        "bonus": "$100",
+        "description": "Earn a $100 bonus after you spend $500 in the first 3 months",
+        "estimatedValueUsd": 100,
+        "spend": "$500 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 0,
+      "applyUrl": "https://www.discover.com/credit-cards/cash-back/it-card/",
+      "cardName": "it Cash Back",
+      "category": "general",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 1,
+        "외식": 1,
+        "주유": 1
+      },
+      "issuer": "Discover",
+      "pointValueCpp": 1.0,
+      "rewardCurrency": "Cashback",
+      "signupBonus": {
+        "bonus": "Cashback Match (first year)",
+        "description": "Unlimited Cashback Match: Discover matches all cash back you earn in the first year (no minimum spend)",
+        "estimatedValueUsd": 0,
+        "spend": "no minimum spend"
+      },
+      "sourceNote": "seed-2026-09-27: 5% on rotating quarterly categories (up to $1500/qtr, activation required)",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 95,
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+      "brand": "Marriott",
+      "cardName": "Marriott Bonvoy Boundless",
+      "category": "hotel",
+      "categoryMultipliers": {
+        "기타": 2,
+        "마트/식료품": 3,
+        "여행": 6,
+        "외식": 3,
+        "주유": 3
+      },
+      "hotelFreeNight": {
+        "maxValueUsd": 280,
+        "nights": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 0.75,
+      "rewardCurrency": "Marriott Bonvoy",
+      "signupBonus": {
+        "bonus": "3 Free Night Awards (up to 50,000 pts each)",
+        "description": "Earn 3 Free Night Awards (up to 50,000 points each) after you spend $3,000 in the first 3 months",
+        "estimatedValueUsd": 1300,
+        "spend": "$3,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 6x Marriott stays, 3x dining/gas/grocery (first $6k/yr combined)",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 550,
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+      "brand": "Hilton",
+      "cardName": "Hilton Honors Aspire",
+      "category": "hotel",
+      "categoryMultipliers": {
+        "기타": 3,
+        "마트/식료품": 3,
+        "여행": 14,
+        "외식": 7,
+        "주유": 3
+      },
+      "hotelFreeNight": {
+        "maxValueUsd": null,
+        "nights": 1
+      },
+      "issuer": "American Express",
+      "pointValueCpp": 0.4,
+      "rewardCurrency": "Hilton Honors",
+      "signupBonus": {
+        "bonus": "200,000 points",
+        "description": "Earn 200,000 Hilton Honors points after you spend $6,000 in the first 6 months [limited-time, ends Jan 13, 2027]",
+        "estimatedValueUsd": 1200,
+        "note": "limited-time, ends Jan 13, 2027",
+        "spend": "$6,000 in 6 months"
+      },
+      "sourceNote": "seed-2026-09-27: 14x Hilton stays, 7x flights/dining/car rentals",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 95,
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+      "brand": "Hyatt",
+      "cardName": "World of Hyatt",
+      "category": "hotel",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 4,
+        "외식": 2,
+        "주유": 1
+      },
+      "hotelFreeNight": {
+        "maxValueUsd": 255,
+        "nights": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 1.7,
+      "rewardCurrency": "World of Hyatt",
+      "signupBonus": {
+        "bonus": "up to 60,000 points",
+        "description": "Earn up to 60,000 bonus points: 30,000 after $3,000 in 3 months, plus up to 30,000 more with 2x on up to $15,000 in 6 months",
+        "estimatedValueUsd": 1020,
+        "note": "tiered",
+        "spend": "$3,000 in 3 months, then $15,000 in 6 months"
+      },
+      "sourceNote": "seed-2026-09-27: 4x Hyatt stays, 2x dining/airlines/transit/fitness",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "annualFee": 99,
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+      "brand": "IHG",
+      "cardName": "IHG One Rewards Premier",
+      "category": "hotel",
+      "categoryMultipliers": {
+        "기타": 3,
+        "마트/식료품": 3,
+        "여행": 10,
+        "외식": 5,
+        "주유": 5
+      },
+      "hotelFreeNight": {
+        "maxValueUsd": 200,
+        "nights": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 0.6,
+      "rewardCurrency": "IHG One Rewards",
+      "signupBonus": {
+        "bonus": "140,000 points",
+        "description": "Earn 140,000 bonus points after you spend $3,000 in the first 3 months",
+        "estimatedValueUsd": 700,
+        "spend": "$3,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 10x IHG stays, 5x travel/dining/gas",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "airlineBonusMiles": 60000,
+      "annualFee": 150,
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
+      "brand": "United",
+      "cardName": "United Explorer",
+      "category": "airline",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 2,
+        "외식": 2,
+        "주유": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 1.2,
+      "rewardCurrency": "United MileagePlus",
+      "signupBonus": {
+        "bonus": "up to 60,000 miles",
+        "description": "Earn up to 60,000 bonus miles: 50,000 after $3,000 in 3 months, plus 10,000 for adding an authorized user",
+        "estimatedValueUsd": 720,
+        "note": "10,000 miles require an authorized-user purchase",
+        "spend": "$3,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: $0 intro annual fee first year, 2x United/dining/hotels",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "airlineBonusMiles": 50000,
+      "annualFee": 650,
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+      "brand": "Delta",
+      "cardName": "Delta SkyMiles Reserve",
+      "category": "airline",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 3,
+        "외식": 1,
+        "주유": 1
+      },
+      "issuer": "American Express",
+      "pointValueCpp": 1.2,
+      "rewardCurrency": "Delta SkyMiles",
+      "signupBonus": {
+        "bonus": "50,000 miles + 2 domestic round-trip Comfort certificates",
+        "description": "Limited-time (ends Nov 4, 2026): 2 domestic round-trip Delta Comfort Flight Certificates plus 50,000 bonus miles after $10,000 in 6 months",
+        "estimatedValueUsd": 550,
+        "note": "limited-time, ends Nov 4, 2026",
+        "spend": "$10,000 in 6 months"
+      },
+      "sourceNote": "seed-2026-09-27: 3x Delta purchases",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "airlineBonusMiles": 125000,
+      "annualFee": 695,
+      "applyUrl": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+      "brand": "American",
+      "cardName": "AAdvantage Executive World Elite",
+      "category": "airline",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 4,
+        "외식": 1,
+        "주유": 1
+      },
+      "issuer": "Citi",
+      "pointValueCpp": 1.7,
+      "rewardCurrency": "American AAdvantage",
+      "signupBonus": {
+        "bonus": "125,000 miles",
+        "description": "Earn 125,000 bonus miles after you spend $15,000 in the first 5 months [limited-time]",
+        "estimatedValueUsd": 1750,
+        "note": "limited-time",
+        "spend": "$15,000 in 5 months"
+      },
+      "sourceNote": "seed-2026-09-27: 4x eligible AA purchases; fee raised from $595 in Aug 2026",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "airlineBonusMiles": 50000,
+      "annualFee": 95,
+      "applyUrl": "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-credit-card/",
+      "brand": "Alaska",
+      "cardName": "Atmos Rewards Ascent",
+      "category": "airline",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 3,
+        "외식": 1,
+        "주유": 1
+      },
+      "issuer": "Bank of America",
+      "pointValueCpp": 1.3,
+      "rewardCurrency": "Atmos Rewards",
+      "signupBonus": {
+        "bonus": "50,000 points + $99 companion fare",
+        "description": "Limited-time online offer: 50,000 bonus points plus a $99 companion fare after $1,500 in 90 days",
+        "estimatedValueUsd": 700,
+        "note": "limited-time online offer",
+        "spend": "$1,500 in 90 days"
+      },
+      "sourceNote": "seed-2026-09-27: formerly Alaska Airlines Visa Signature; 3x Alaska/Hawaiian purchases",
+      "isBusiness": false,
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Marriott Bonvoy Bold",
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
+      "annualFee": 0,
+      "rewardCurrency": "Marriott Bonvoy",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 3,
+        "마트/식료품": 2,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 0.75,
+      "sourceNote": "seed-2026-09-28: 45,000 points after $1,000 in 3 months; $0 annual fee; 3x at Marriott, 2x on grocery/rideshare/select food delivery/streaming/internet-cable-phone, 1x other",
+      "category": "hotel",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "45,000 points",
+        "spend": "$1,000 in 3 months",
+        "description": "Earn 45,000 points after you spend $1,000 in 3 months",
+        "estimatedValueUsd": 340
+      },
+      "previousSignupBonus": null,
+      "brand": "Marriott"
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Marriott Bonvoy Bountiful",
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
+      "annualFee": 250,
+      "rewardCurrency": "Marriott Bonvoy",
+      "categoryMultipliers": {
+        "외식": 4,
+        "여행": 6,
+        "마트/식료품": 4,
+        "주유": 2,
+        "기타": 2
+      },
+      "pointValueCpp": 0.75,
+      "sourceNote": "seed-2026-09-28: 85,000 points after $4,000 in 3 months; 6x Marriott, 4x dining/grocery (first $15k/yr combined), 2x other; $15k/yr spend free night is conditional, not automatic; unverified-2026-09-28",
+      "category": "hotel",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "85,000 points",
+        "spend": "$4,000 in 3 months",
+        "description": "Earn 85,000 points after you spend $4,000 in 3 months",
+        "estimatedValueUsd": 640
+      },
+      "previousSignupBonus": null,
+      "brand": "Marriott"
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Marriott Bonvoy Bevy",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+      "annualFee": 250,
+      "rewardCurrency": "Marriott Bonvoy",
+      "categoryMultipliers": {
+        "외식": 4,
+        "여행": 6,
+        "마트/식료품": 4,
+        "주유": 2,
+        "기타": 2
+      },
+      "pointValueCpp": 0.75,
+      "sourceNote": "seed-2026-09-28: limited-time 125,000 points + $150 statement credit after $5,000 in 6 months, ends 2026-09-30; $250 annual fee; 6x Marriott, 4x restaurants/U.S. supermarkets (up to $15k/yr combined), 2x other; $15k/yr spend free night is conditional, not automatic",
+      "category": "hotel",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "125,000 points + $150 statement credit",
+        "spend": "$5,000 in 6 months",
+        "description": "Earn 125,000 points + $150 statement credit after you spend $5,000 in 6 months",
+        "estimatedValueUsd": 1090,
+        "note": "limited-time, ends 2026-09-30"
+      },
+      "previousSignupBonus": null,
+      "brand": "Marriott"
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Marriott Bonvoy Brilliant",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+      "annualFee": 650,
+      "rewardCurrency": "Marriott Bonvoy",
+      "categoryMultipliers": {
+        "외식": 3,
+        "여행": 6,
+        "마트/식료품": 2,
+        "주유": 2,
+        "기타": 2
+      },
+      "pointValueCpp": 0.75,
+      "sourceNote": "seed-2026-09-28: limited-time 150,000 points + $250 statement credit after $6,000 in 6 months, ends 2026-09-30; $650 annual fee; 6x Marriott, 3x restaurants/flights, 2x other; automatic annual free night up to 85,000 points after renewal month",
+      "category": "hotel",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "150,000 points + $250 statement credit",
+        "spend": "$6,000 in 6 months",
+        "description": "Earn 150,000 points + $250 statement credit after you spend $6,000 in 6 months",
+        "estimatedValueUsd": 1380,
+        "note": "limited-time, ends 2026-09-30"
+      },
+      "previousSignupBonus": null,
+      "brand": "Marriott",
+      "hotelFreeNight": {
+        "maxValueUsd": 595,
+        "nights": 1
+      }
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Marriott Bonvoy Business",
+      "applyUrl": "https://apply.americanexpress.com/marriottbonvoymclp9/",
+      "annualFee": 125,
+      "rewardCurrency": "Marriott Bonvoy",
+      "categoryMultipliers": {
+        "외식": 4,
+        "여행": 6,
+        "마트/식료품": 2,
+        "주유": 4,
+        "기타": 2
+      },
+      "pointValueCpp": 0.75,
+      "sourceNote": "seed-2026-09-28: limited-time 100,000 points + 1 Free Night Award (up to 50,000 points) after $8,000 in 6 months, ends 2026-11-04; $125 annual fee; 6x Marriott, 4x restaurants/U.S. gas/U.S. wireless/U.S. shipping, 2x other; automatic annual free night up to 35,000 points; per-card page URL not confirmed, unverified-2026-09-28",
+      "category": "hotel",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "100,000 points + 1 Free Night Award (up to 50,000 points)",
+        "spend": "$8,000 in 6 months",
+        "description": "Earn 100,000 points + 1 Free Night Award (up to 50,000 points) after you spend $8,000 in 6 months",
+        "estimatedValueUsd": 1150,
+        "note": "limited-time, ends 2026-11-04"
+      },
+      "previousSignupBonus": null,
+      "brand": "Marriott",
+      "hotelFreeNight": {
+        "maxValueUsd": 245,
+        "nights": 1
+      }
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Hilton Honors",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+      "annualFee": 0,
+      "rewardCurrency": "Hilton Honors",
+      "categoryMultipliers": {
+        "외식": 5,
+        "여행": 7,
+        "마트/식료품": 5,
+        "주유": 5,
+        "기타": 3
+      },
+      "pointValueCpp": 0.4,
+      "sourceNote": "seed-2026-09-28: best-known publicized offer: 70,000 points + 1 Free Night Reward after $2,000 in 6 months (limited-time, ends 2027-01-13); $0 annual fee; 7x Hilton, 5x U.S. restaurants/supermarkets/gas, 3x other; unverified-2026-09-28",
+      "category": "hotel",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "70,000 points + 1 Free Night Reward",
+        "spend": "$2,000 in 6 months",
+        "description": "Earn 70,000 points + 1 Free Night Reward after you spend $2,000 in 6 months",
+        "estimatedValueUsd": 530,
+        "note": "limited-time, ends 2027-01-13"
+      },
+      "previousSignupBonus": null,
+      "brand": "Hilton"
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Hilton Honors Surpass",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+      "annualFee": 150,
+      "rewardCurrency": "Hilton Honors",
+      "categoryMultipliers": {
+        "외식": 6,
+        "여행": 12,
+        "마트/식료품": 6,
+        "주유": 6,
+        "기타": 3
+      },
+      "pointValueCpp": 0.4,
+      "sourceNote": "seed-2026-09-28: $0 intro first year then $150; 12x Hilton, 6x U.S. restaurants/supermarkets/gas, 4x U.S. online retail, 3x other; $15k/yr spend free night is conditional, not automatic; bonus from best-known publicized offer: 130,000 points + 1 Free Night Reward after $3,000 in 6 months (ends 2027-01-13); unverified-2026-09-28",
+      "category": "hotel",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "130,000 points + 1 Free Night Reward",
+        "spend": "$3,000 in 6 months",
+        "description": "Earn 130,000 points + 1 Free Night Reward after you spend $3,000 in 6 months",
+        "estimatedValueUsd": 770,
+        "note": "limited-time, ends 2027-01-13"
+      },
+      "previousSignupBonus": null,
+      "brand": "Hilton"
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "World of Hyatt Business",
+      "applyUrl": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+      "annualFee": 199,
+      "rewardCurrency": "World of Hyatt",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 4,
+        "마트/식료품": 2,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.7,
+      "sourceNote": "seed-2026-09-28: 70,000 points after $7,000 in 3 months; $199 annual fee; 4x at Hyatt (up to 9 total with base points), 2x top three of eight spend categories each quarter, 2x fitness/gym, 1x other",
+      "category": "hotel",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "70,000 points",
+        "spend": "$7,000 in 3 months",
+        "description": "Earn 70,000 points after you spend $7,000 in 3 months",
+        "estimatedValueUsd": 1190
+      },
+      "previousSignupBonus": null,
+      "brand": "Hyatt"
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "IHG One Rewards Traveler",
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
+      "annualFee": 0,
+      "rewardCurrency": "IHG One Rewards",
+      "categoryMultipliers": {
+        "외식": 3,
+        "여행": 5,
+        "마트/식료품": 3,
+        "주유": 3,
+        "기타": 2
+      },
+      "pointValueCpp": 0.6,
+      "sourceNote": "seed-2026-09-28: 80,000 points after $2,000 in 3 months, $0 annual fee; earn rates per official materials: up to 17x at IHG (5x card), 3x dining/gas/monthly bills, 2x other; unverified-2026-09-28",
+      "category": "hotel",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "80,000 points",
+        "spend": "$2,000 in 3 months",
+        "description": "Earn 80,000 points after you spend $2,000 in 3 months",
+        "estimatedValueUsd": 480
+      },
+      "previousSignupBonus": null,
+      "brand": "IHG"
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "IHG One Rewards Premier Business",
+      "applyUrl": "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
+      "annualFee": 99,
+      "rewardCurrency": "IHG One Rewards",
+      "categoryMultipliers": {
+        "외식": 5,
+        "여행": 10,
+        "마트/식료품": 3,
+        "주유": 5,
+        "기타": 3
+      },
+      "pointValueCpp": 0.6,
+      "sourceNote": "seed-2026-09-28: 140,000 points after $4,000 in 3 months; up to 26x at IHG (10x card), 5x travel/dining/gas/select business, 3x other; automatic anniversary free night (up to 40,000 points); $99 fee per publicized materials, unverified-2026-09-28",
+      "category": "hotel",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "140,000 points",
+        "spend": "$4,000 in 3 months",
+        "description": "Earn 140,000 points after you spend $4,000 in 3 months",
+        "estimatedValueUsd": 840
+      },
+      "previousSignupBonus": null,
+      "brand": "IHG",
+      "hotelFreeNight": {
+        "maxValueUsd": 240,
+        "nights": 1
+      }
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "United Quest",
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
+      "annualFee": 350,
+      "rewardCurrency": "United MileagePlus",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 4,
+        "마트/식료품": 1,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: annual fee raised to $350 (was $250); 4x United, 2x dining",
+      "category": "airline",
+      "brand": "United",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "up to 70,000 miles + 500 PQP",
+        "spend": "$4,000 in 3 months",
+        "description": "Earn 60,000 bonus miles + 500 PQP after you spend $4,000 in the first 3 months, plus 10,000 more miles when you add an authorized user (up to 70,000 miles)",
+        "estimatedValueUsd": 840
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 70000
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "United Club",
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/united/united-club",
+      "annualFee": 695,
+      "rewardCurrency": "United MileagePlus",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 5,
+        "마트/식료품": 1,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: annual fee raised to $695 (was $525)",
+      "category": "airline",
+      "brand": "United",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "up to 90,000 miles",
+        "spend": "$5,000 in 3 months",
+        "description": "Earn 80,000 bonus miles after you spend $5,000 in the first 3 months, plus 10,000 more miles when you add an authorized user (up to 90,000 miles)",
+        "estimatedValueUsd": 1080
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 90000
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "United Business",
+      "applyUrl": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
+      "annualFee": 150,
+      "rewardCurrency": "United MileagePlus",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 5,
+        "마트/식료품": 1,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: 100,000 miles + 2,000 PQP base; +10,000 with employee card; offer ends soon, no fixed date",
+      "category": "airline",
+      "brand": "United",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "up to 110,000 miles + 2,000 PQP",
+        "spend": "$5,000 in 3 months",
+        "description": "Earn 100,000 bonus miles + 2,000 PQP after you spend $5,000 in the first 3 months, plus 10,000 more miles when you add an employee card (up to 110,000 miles) [limited-time]",
+        "estimatedValueUsd": 1320,
+        "note": "limited-time"
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 110000
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Delta SkyMiles Gold",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+      "annualFee": 150,
+      "rewardCurrency": "Delta SkyMiles",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 2,
+        "마트/식료품": 2,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: official Amex page verified",
+      "category": "airline",
+      "brand": "Delta",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "up to 80,000 miles + $250 statement credit",
+        "spend": "$3,000 in 6 months",
+        "description": "Earn up to 80,000 bonus miles plus a $250 statement credit after you spend $3,000 in the first 6 months [limited-time, ends Nov 4, 2026]",
+        "estimatedValueUsd": 960,
+        "note": "limited-time, ends Nov 4, 2026"
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 80000
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Delta SkyMiles Platinum",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+      "annualFee": 350,
+      "rewardCurrency": "Delta SkyMiles",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 3,
+        "마트/식료품": 2,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: official Amex page verified",
+      "category": "airline",
+      "brand": "Delta",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "up to 90,000 miles + $300 statement credit",
+        "spend": "$4,000 in 6 months",
+        "description": "Earn up to 90,000 bonus miles plus a $300 statement credit after you spend $4,000 in the first 6 months [limited-time, ends Nov 4, 2026]",
+        "estimatedValueUsd": 1080,
+        "note": "limited-time, ends Nov 4, 2026"
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 90000
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Delta SkyMiles Gold Business",
+      "applyUrl": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+      "annualFee": 150,
+      "rewardCurrency": "Delta SkyMiles",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 2,
+        "마트/식료품": 1,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: unverified-2026-09-28",
+      "category": "airline",
+      "brand": "Delta",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "90,000 miles",
+        "spend": "$6,000 in 6 months",
+        "description": "Earn 90,000 bonus miles after you spend $6,000 in the first 6 months [limited-time, ends Nov 4, 2026]",
+        "estimatedValueUsd": 1080,
+        "note": "limited-time, ends Nov 4, 2026"
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 90000
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Delta SkyMiles Platinum Business",
+      "applyUrl": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+      "annualFee": 350,
+      "rewardCurrency": "Delta SkyMiles",
+      "categoryMultipliers": {
+        "외식": 1,
+        "여행": 3,
+        "마트/식료품": 1,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: unverified-2026-09-28",
+      "category": "airline",
+      "brand": "Delta",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "100,000 miles",
+        "spend": "$8,000 in 6 months",
+        "description": "Earn 100,000 bonus miles after you spend $8,000 in the first 6 months [limited-time, ends Nov 4, 2026]",
+        "estimatedValueUsd": 1200,
+        "note": "limited-time, ends Nov 4, 2026"
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 100000
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "Delta SkyMiles Reserve Business",
+      "applyUrl": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+      "annualFee": 650,
+      "rewardCurrency": "Delta SkyMiles",
+      "categoryMultipliers": {
+        "외식": 1,
+        "여행": 3,
+        "마트/식료품": 1,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.2,
+      "sourceNote": "seed-2026-09-28: unverified-2026-09-28",
+      "category": "airline",
+      "brand": "Delta",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "200,000 miles",
+        "spend": "$20,000 in 6 months",
+        "description": "Earn 200,000 bonus miles after you spend $20,000 in the first 6 months [limited-time, ends Nov 4, 2026]",
+        "estimatedValueUsd": 2400,
+        "note": "limited-time, ends Nov 4, 2026"
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 200000
+    },
+    {
+      "issuer": "Citi",
+      "cardName": "AAdvantage Platinum Select",
+      "applyUrl": "https://www.citi.com/credit-cards/citi-aadvantage-platinum-select-world-elite-mastercard",
+      "annualFee": 99,
+      "rewardCurrency": "American AAdvantage",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 2,
+        "마트/식료품": 1,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.7,
+      "sourceNote": "seed-2026-09-28: standard public offer; an 80,000-mile limited offer ($3,500/4mo) was also reported Sep 2026",
+      "category": "airline",
+      "brand": "American",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "50,000 miles",
+        "spend": "$2,500 in 3 months",
+        "description": "Earn 50,000 AAdvantage miles after you spend $2,500 in the first 3 months",
+        "estimatedValueUsd": 850
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 50000
+    },
+    {
+      "issuer": "Citi",
+      "cardName": "AAdvantage Business",
+      "applyUrl": "https://www.citi.com/credit-cards/view-all-credit-cards",
+      "annualFee": 99,
+      "rewardCurrency": "American AAdvantage",
+      "categoryMultipliers": {
+        "외식": 1,
+        "여행": 2,
+        "마트/식료품": 1,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.7,
+      "sourceNote": "seed-2026-09-28: $0 intro annual fee first year",
+      "category": "airline",
+      "brand": "American",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "65,000 miles",
+        "spend": "$4,000 in 4 months",
+        "description": "Earn 65,000 AAdvantage miles after you spend $4,000 in the first 4 months",
+        "estimatedValueUsd": 1110
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 65000
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Southwest Rapid Rewards Plus",
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
+      "annualFee": 99,
+      "rewardCurrency": "Southwest Rapid Rewards",
+      "categoryMultipliers": {
+        "외식": 1,
+        "여행": 2,
+        "마트/식료품": 2,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.3,
+      "sourceNote": "seed-2026-09-28: annual fee raised to $99 (was $69)",
+      "category": "airline",
+      "brand": "Southwest",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "50,000 points",
+        "spend": "$1,000 in 3 months",
+        "description": "Earn 50,000 bonus points after you spend $1,000 in the first 3 months",
+        "estimatedValueUsd": 650
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 50000
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Southwest Rapid Rewards Premier",
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
+      "annualFee": 149,
+      "rewardCurrency": "Southwest Rapid Rewards",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 3,
+        "마트/식료품": 2,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 1.3,
+      "sourceNote": "seed-2026-09-28: unverified-2026-09-28",
+      "category": "airline",
+      "brand": "Southwest",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "55,000 points",
+        "spend": "$1,500 in 3 months",
+        "description": "Earn 55,000 bonus points after you spend $1,500 in the first 3 months",
+        "estimatedValueUsd": 720
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 55000
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Southwest Rapid Rewards Priority",
+      "applyUrl": "https://creditcards.chase.com/southwest/priority-credit-card",
+      "annualFee": 229,
+      "rewardCurrency": "Southwest Rapid Rewards",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 4,
+        "마트/식료품": 1,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.3,
+      "sourceNote": "seed-2026-09-28: annual fee raised to $229 (was $149)",
+      "category": "airline",
+      "brand": "Southwest",
+      "isBusiness": false,
+      "signupBonus": {
+        "bonus": "60,000 points",
+        "spend": "$2,000 in 3 months",
+        "description": "Earn 60,000 bonus points after you spend $2,000 in the first 3 months",
+        "estimatedValueUsd": 780
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 60000
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Southwest Rapid Rewards Performance Business",
+      "applyUrl": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
+      "annualFee": 299,
+      "rewardCurrency": "Southwest Rapid Rewards",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 4,
+        "마트/식료품": 1,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.3,
+      "sourceNote": "seed-2026-09-28: annual fee raised to $299 (was $199)",
+      "category": "airline",
+      "brand": "Southwest",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "80,000 points",
+        "spend": "$5,000 in 3 months",
+        "description": "Earn 80,000 bonus points after you spend $5,000 in the first 3 months",
+        "estimatedValueUsd": 1040
+      },
+      "previousSignupBonus": null,
+      "airlineBonusMiles": 80000
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Chase Ink Business Preferred",
+      "applyUrl": "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
+      "annualFee": 95,
+      "rewardCurrency": "Ultimate Rewards",
+      "categoryMultipliers": {
+        "외식": 1,
+        "여행": 3,
+        "마트/식료품": 1,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 2.05,
+      "sourceNote": "seed-2026-09-28",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "100,000 points",
+        "spend": "$8,000 in first 3 months",
+        "description": "Earn 100,000 Ultimate Rewards points after spending $8,000 in the first 3 months. 3X points on travel, shipping, online advertising, and internet/cable/phone (first $150,000/yr combined); 1X on all other purchases.",
+        "estimatedValueUsd": 2050
+      },
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Chase Ink Business Cash",
+      "applyUrl": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+      "annualFee": 0,
+      "rewardCurrency": "Cashback",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 1,
+        "마트/식료품": 1,
+        "주유": 2,
+        "기타": 1
+      },
+      "pointValueCpp": 1.0,
+      "sourceNote": "seed-2026-09-28",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "$750 cash back",
+        "spend": "$6,000 in first 3 months",
+        "description": "Earn $750 cash back after spending $6,000 in the first 3 months. 5% cash back on office supplies and internet/cable/phone (first $25,000/yr); 2% on dining and gas (first $25,000/yr); 1% on all other purchases.",
+        "estimatedValueUsd": 750
+      },
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "Chase",
+      "cardName": "Chase Ink Business Unlimited",
+      "applyUrl": "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
+      "annualFee": 0,
+      "rewardCurrency": "Cashback",
+      "categoryMultipliers": {
+        "외식": 1.5,
+        "여행": 1.5,
+        "마트/식료품": 1.5,
+        "주유": 1.5,
+        "기타": 1.5
+      },
+      "pointValueCpp": 1.0,
+      "sourceNote": "seed-2026-09-28",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "$750 cash back",
+        "spend": "$6,000 in first 3 months",
+        "description": "Earn $750 cash back after spending $6,000 in the first 3 months. Unlimited 1.5% cash back on every purchase.",
+        "estimatedValueUsd": 750
+      },
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "American Express Blue Business Plus",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/45094/",
+      "annualFee": 0,
+      "rewardCurrency": "Membership Rewards",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 2,
+        "마트/식료품": 2,
+        "주유": 2,
+        "기타": 2
+      },
+      "pointValueCpp": 2.0,
+      "sourceNote": "seed-2026-09-28",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "15,000 points",
+        "spend": "$3,000 in first 3 months",
+        "description": "Earn 15,000 Membership Rewards points after spending $3,000 in the first 3 months. 2X points on all eligible purchases on the first $50,000 per year, 1X thereafter.",
+        "estimatedValueUsd": 300
+      },
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "American Express Business Gold",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/business-gold/",
+      "annualFee": 375,
+      "rewardCurrency": "Membership Rewards",
+      "categoryMultipliers": {
+        "외식": 4,
+        "여행": 3,
+        "마트/식료품": 1,
+        "주유": 4,
+        "기타": 1
+      },
+      "pointValueCpp": 2.0,
+      "sourceNote": "seed-2026-09-28: annual fee $375 not displayed on campaign page viewed; fee unverified-2026-09-28",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "175,000 points",
+        "spend": "$15,000 in first 3 months",
+        "description": "Earn 175,000 Membership Rewards points after spending $15,000 in eligible purchases in the first 3 months. 4X on the top 2 spending categories each billing cycle (first $150,000/yr combined); 3X on flights and prepaid hotels booked via AmexTravel; 1X on all other purchases.",
+        "estimatedValueUsd": 3500
+      },
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "American Express",
+      "cardName": "American Express Business Platinum",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+      "annualFee": 895,
+      "rewardCurrency": "Membership Rewards",
+      "categoryMultipliers": {
+        "외식": 1,
+        "여행": 5,
+        "마트/식료품": 1,
+        "주유": 1,
+        "기타": 1
+      },
+      "pointValueCpp": 2.0,
+      "sourceNote": "seed-2026-09-28: official page shows annual fee $895 (updated from older $695)",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "Up to 300,000 points",
+        "spend": "$20,000 in first 3 months",
+        "description": "Applicants may be eligible for up to 300,000 Membership Rewards points after spending $20,000 in the first 3 months; welcome offers vary by applicant. 5X on flights and prepaid hotels booked via AmexTravel; 2X on large and select business purchases (up to $2M/yr); 1X on all other purchases.",
+        "estimatedValueUsd": 6000,
+        "note": "offer varies by applicant"
+      },
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "Capital One",
+      "cardName": "Capital One Spark Cash Plus",
+      "applyUrl": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+      "annualFee": 150,
+      "rewardCurrency": "Cashback",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 5,
+        "마트/식료품": 2,
+        "주유": 2,
+        "기타": 2
+      },
+      "pointValueCpp": 1.0,
+      "sourceNote": "seed-2026-09-28",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "$2,000 cash",
+        "spend": "$30,000 in first 3 months",
+        "description": "Earn a $2,000 cash bonus after spending $30,000 in the first 3 months, plus an additional $2,000 for every $500,000 spent in the first year. Unlimited 2% cash back on every purchase; 5% on hotels, vacation rentals and rental cars booked through Capital One Business Travel.",
+        "estimatedValueUsd": 2000
+      },
+      "previousSignupBonus": null
+    },
+    {
+      "issuer": "Capital One",
+      "cardName": "Capital One Venture Business",
+      "applyUrl": "https://www.capitalone.com/small-business/credit-cards/travel-and-miles/",
+      "annualFee": 95,
+      "rewardCurrency": "Capital One Miles",
+      "categoryMultipliers": {
+        "외식": 2,
+        "여행": 5,
+        "마트/식료품": 2,
+        "주유": 2,
+        "기타": 2
+      },
+      "pointValueCpp": 1.85,
+      "sourceNote": "seed-2026-09-28: successor to retired Spark Miles for Business; substitution unverified-2026-09-28",
+      "category": "general",
+      "isBusiness": true,
+      "signupBonus": {
+        "bonus": "100,000 miles",
+        "spend": "$10,000 in first 3 months",
+        "description": "Earn 100,000 bonus miles after spending $10,000 in the first 3 months. Unlimited 2X miles on every purchase; 5X on hotels, vacation rentals and rental cars booked through Capital One Business Travel. Spark Miles for Business was retired 2026-04-14 and replaced by Venture Business.",
+        "estimatedValueUsd": 1850
+      },
+      "previousSignupBonus": null
+    }
+  ],
+  "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
+  "updatedAt": "2026-09-28",
+  "version": 1
+}
