@@ -1,1 +1,542 @@
-{"notes":"Ratios verified Oct 1, 2026 via point.me / frequentmiler / upgradedpoints / awardwallet / thepointsguy / nerdwallet. bonusPct is an extra transfer bonus active now (0 = none). transferTime is included only where confirmed. CITI, CAP1 and BILT programs added Oct 1, 2026.","programs":[{"id":"UR","minTransfer":1000,"name":"Chase Ultimate Rewards","transfers":[{"ratio":"1:1","to":"United MileagePlus","transferTime":"instant"},{"ratio":"1:1","to":"Air Canada Aeroplan","transferTime":"instant"},{"ratio":"1:1","to":"British Airways Club","transferTime":"instant"},{"ratio":"1:1","to":"Air France-KLM Flying Blue","transferTime":"instant"},{"ratio":"1:1","to":"Virgin Atlantic Flying Club","transferTime":"~2 days"},{"ratio":"1:1","to":"Singapore Airlines KrisFlyer","transferTime":"1-2 days"},{"ratio":"1:1","to":"Southwest Rapid Rewards","transferTime":"instant"},{"ratio":"1:1","to":"JetBlue TrueBlue","transferTime":"instant"},{"ratio":"1:1","to":"Aer Lingus AerClub","transferTime":"instant"},{"ratio":"1:1","to":"Iberia Club","transferTime":"instant"},{"note":"4:3 for Sapphire Preferred / Ink Business Preferred / Ink Plus / Corporate Flex since Oct 1, 2026; Sapphire Reserve and Reserve for Business stay 1:1","ratio":"4:3","to":"World of Hyatt","transferTime":"instant"},{"bonusExpires":"2026-10-15","bonusPct":70,"ratio":"1:1","to":"Marriott Bonvoy","transferTime":"~2 days"},{"ratio":"1:1","to":"IHG One Rewards","transferTime":"instant"},{"ratio":"1:1","to":"Wyndham Rewards","transferTime":"instant"}]},{"id":"MR","minTransfer":1000,"name":"Amex Membership Rewards","transfers":[{"note":"No award holds; availability can vanish during transfer","ratio":"1:1","to":"ANA Mileage Club","transferTime":"1-2 days"},{"ratio":"1:1","to":"Delta SkyMiles"},{"ratio":"1:1","to":"Air Canada Aeroplan"},{"ratio":"1:1","to":"British Airways Club"},{"bonusExpires":"2026-10-31","bonusPct":25,"ratio":"1:1","to":"Air France-KLM Flying Blue"},{"ratio":"1:1","to":"Virgin Atlantic Flying Club"},{"ratio":"1:1","to":"Singapore Airlines KrisFlyer"},{"ratio":"5:4","to":"Cathay Pacific Asia Miles"},{"ratio":"5:4","to":"Emirates Skywards"},{"ratio":"1:1","to":"Qatar Airways Privilege Club"},{"note":"Reported as ending June 30 — verify status before transferring","ratio":"1:1","to":"Etihad Guest"},{"ratio":"1:1","to":"Avianca LifeMiles"},{"bonusExpires":"2026-10-30","bonusPct":20,"ratio":"1:1.6","to":"Aeromexico Rewards"},{"ratio":"250:200","to":"JetBlue TrueBlue"},{"ratio":"1:1","to":"Qantas Frequent Flyer"},{"ratio":"1:1","to":"Aer Lingus AerClub"},{"ratio":"1:1","to":"Iberia Club"},{"bonusExpires":"2026-10-14","bonusPct":30,"ratio":"1:2","to":"Hilton Honors"},{"ratio":"1:1","to":"Marriott Bonvoy"},{"ratio":"1:1","to":"Choice Privileges"},{"ratio":"4:1","to":"Leading Hotels of the World"}]},{"id":"CITI","minTransfer":1000,"name":"Citi ThankYou Points","transfers":[{"ratio":"1:1","to":"Air France-KLM Flying Blue","transferTime":"instant"},{"note":"Premium cards only (Strata Premier/Elite, Prestige)","ratio":"1:1","to":"American Airlines AAdvantage","transferTime":"instant"},{"bonusExpires":"2026-10-24","bonusPct":25,"ratio":"1:1","to":"Avianca LifeMiles","transferTime":"instant"},{"ratio":"1:1","to":"Cathay Pacific Asia Miles","transferTime":"instant"},{"ratio":"1:0.8","to":"Emirates Skywards","transferTime":"instant"},{"ratio":"1:1","to":"Etihad Guest","transferTime":"instant"},{"ratio":"1:1","to":"EVA Air Infinity MileageLands","transferTime":"1-2 days"},{"bonusExpires":"2026-10-24","bonusPct":30,"ratio":"1:1","to":"Japan Airlines Mileage Bank","transferTime":"instant"},{"ratio":"1:1","to":"JetBlue TrueBlue","transferTime":"instant"},{"ratio":"1:1","to":"Malaysia Airlines Enrich","transferTime":"~2 days"},{"ratio":"1:1","to":"Qantas Frequent Flyer","transferTime":"1-2 days"},{"ratio":"1:1","to":"Qatar Airways Privilege Club","transferTime":"1-2 days"},{"ratio":"1:1","to":"Singapore Airlines KrisFlyer","transferTime":"~1 day"},{"ratio":"1:1","to":"Thai Airways Royal Orchid Plus","transferTime":"3-7 days"},{"ratio":"1:1","to":"Turkish Airlines Miles&Smiles","transferTime":"instant"},{"ratio":"1:1","to":"Virgin Atlantic Flying Club","transferTime":"instant"},{"ratio":"2:1","to":"Accor Live Limitless","transferTime":"~1 day"},{"ratio":"1:1.5","to":"Choice Privileges","transferTime":"instant"},{"ratio":"5:1","to":"Leading Hotels of the World","transferTime":"instant"},{"ratio":"1:2","to":"I Prefer Hotel Rewards","transferTime":"instant"},{"ratio":"1:1","to":"Wyndham Rewards","transferTime":"instant"}]},{"id":"CAP1","minTransfer":1000,"name":"Capital One Miles","transfers":[{"ratio":"1:1","to":"Aeromexico Rewards","transferTime":"instant"},{"ratio":"1:1","to":"Air Canada Aeroplan","transferTime":"instant"},{"bonusExpires":"2026-10-31","bonusPct":20,"ratio":"1:1","to":"Air France-KLM Flying Blue","transferTime":"instant"},{"ratio":"1:1","to":"Avianca LifeMiles","transferTime":"instant"},{"bonusExpires":"2026-10-31","bonusPct":20,"ratio":"1:1","to":"British Airways Club","transferTime":"instant"},{"ratio":"1:1","to":"Cathay Pacific Asia Miles"},{"note":"Devalued from 1:1 on Jan 13, 2026","ratio":"2:1.5","to":"Emirates Skywards"},{"ratio":"1:1","to":"Etihad Guest"},{"ratio":"2:1.5","to":"EVA Air Infinity MileageLands"},{"ratio":"1:1","to":"Finnair Plus","transferTime":"instant"},{"ratio":"2:1.5","to":"Japan Airlines Mileage Bank"},{"ratio":"5:3","to":"JetBlue TrueBlue"},{"ratio":"1:1","to":"Qantas Frequent Flyer"},{"ratio":"1:1","to":"Qatar Airways Privilege Club"},{"ratio":"1:1","to":"Singapore Airlines KrisFlyer"},{"ratio":"1:1","to":"TAP Air Portugal Miles&Go"},{"ratio":"1:1","to":"Turkish Airlines Miles&Smiles"},{"ratio":"1:1","to":"Virgin Red","transferTime":"instant"},{"ratio":"2:1","to":"Accor Live Limitless"},{"ratio":"1:1","to":"Choice Privileges"},{"ratio":"1:2","to":"I Prefer Hotel Rewards"},{"ratio":"1:1","to":"Wyndham Rewards","transferTime":"instant"}]},{"id":"BILT","minTransfer":1000,"name":"Bilt Rewards","transfers":[{"ratio":"1:1","to":"Aer Lingus AerClub","transferTime":"instant"},{"ratio":"1:1","to":"Air Canada Aeroplan","transferTime":"1-2 days"},{"ratio":"1:1","to":"Air France-KLM Flying Blue","transferTime":"instant"},{"note":"Combined Alaska Airlines + Hawaiian Airlines program (launched 2026); book American Airlines flights via Atmos","ratio":"1:1","to":"Alaska Atmos Rewards","transferTime":"instant"},{"ratio":"1:1","to":"Avianca LifeMiles","transferTime":"~3 days"},{"ratio":"1:1","to":"British Airways Club","transferTime":"instant"},{"ratio":"1:1","to":"Cathay Pacific Asia Miles","transferTime":"instant"},{"ratio":"1:1","to":"Emirates Skywards","transferTime":"instant"},{"ratio":"1:1","to":"Etihad Guest","transferTime":"instant"},{"ratio":"1:1","to":"Iberia Club","transferTime":"instant"},{"ratio":"1:1","to":"Japan Airlines Mileage Bank","transferTime":"multi-day"},{"ratio":"1:1","to":"Qatar Airways Privilege Club","transferTime":"instant"},{"ratio":"1:1","to":"Southwest Rapid Rewards","transferTime":"~3 days"},{"ratio":"1:1","to":"Spirit Free Spirit","transferTime":"instant"},{"ratio":"1:1","to":"TAP Air Portugal Miles&Go","transferTime":"instant"},{"ratio":"1:1","to":"Turkish Airlines Miles&Smiles","transferTime":"instant"},{"ratio":"1:1","to":"United MileagePlus","transferTime":"instant"},{"ratio":"1:1","to":"Virgin Red","transferTime":"instant"},{"ratio":"3:2","to":"Accor Live Limitless","transferTime":"instant"},{"ratio":"1:1","to":"Hilton Honors","transferTime":"instant"},{"ratio":"1:1","to":"IHG One Rewards","transferTime":"instant"},{"note":"+5,000 bonus points for every 20,000 points transferred in a single transfer","ratio":"1:1","to":"Marriott Bonvoy","transferTime":"1-2 days"},{"note":"1:1 through Dec 31, 2026; drops to 4:3 on Jan 1, 2027 for all members","ratio":"1:1","to":"World of Hyatt","transferTime":"instant"},{"ratio":"1:1","to":"Wyndham Rewards","transferTime":"instant"},{"ratio":"1:2","to":"I Prefer Hotel Rewards","transferTime":"instant"}]}],"updatedAt":"2026-10-01"}
+{
+  "notes": "Ratios verified Oct 1, 2026 via point.me / frequentmiler / upgradedpoints / awardwallet / thepointsguy / nerdwallet. bonusPct is an extra transfer bonus active now (0 = none). transferTime is included only where confirmed. CITI, CAP1 and BILT programs added Oct 1, 2026.",
+  "programs": [
+    {
+      "id": "UR",
+      "minTransfer": 1000,
+      "name": "Chase Ultimate Rewards",
+      "transfers": [
+        {
+          "ratio": "1:1",
+          "to": "United MileagePlus",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Air Canada Aeroplan",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "British Airways Club",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Air France-KLM Flying Blue",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Virgin Atlantic Flying Club",
+          "transferTime": "~2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Singapore Airlines KrisFlyer",
+          "transferTime": "1-2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Southwest Rapid Rewards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "JetBlue TrueBlue",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Aer Lingus AerClub",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Iberia Club",
+          "transferTime": "instant"
+        },
+        {
+          "note": "4:3 for Sapphire Preferred / Ink Business Preferred / Ink Plus / Corporate Flex since Oct 1, 2026; Sapphire Reserve and Reserve for Business stay 1:1",
+          "ratio": "4:3",
+          "to": "World of Hyatt",
+          "transferTime": "instant"
+        },
+        {
+          "bonusExpires": "2026-10-15",
+          "bonusPct": 70,
+          "ratio": "1:1",
+          "to": "Marriott Bonvoy",
+          "transferTime": "~2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "IHG One Rewards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Wyndham Rewards",
+          "transferTime": "instant"
+        }
+      ]
+    },
+    {
+      "id": "MR",
+      "minTransfer": 1000,
+      "name": "Amex Membership Rewards",
+      "transfers": [
+        {
+          "note": "No award holds; availability can vanish during transfer",
+          "ratio": "1:1",
+          "to": "ANA Mileage Club",
+          "transferTime": "1-2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Delta SkyMiles"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Air Canada Aeroplan"
+        },
+        {
+          "ratio": "1:1",
+          "to": "British Airways Club"
+        },
+        {
+          "bonusExpires": "2026-10-31",
+          "bonusPct": 25,
+          "ratio": "1:1",
+          "to": "Air France-KLM Flying Blue"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Virgin Atlantic Flying Club"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Singapore Airlines KrisFlyer"
+        },
+        {
+          "ratio": "5:4",
+          "to": "Cathay Pacific Asia Miles"
+        },
+        {
+          "ratio": "5:4",
+          "to": "Emirates Skywards"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Qatar Airways Privilege Club"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Avianca LifeMiles"
+        },
+        {
+          "bonusExpires": "2026-10-30",
+          "bonusPct": 20,
+          "ratio": "1:1.6",
+          "to": "Aeromexico Rewards"
+        },
+        {
+          "ratio": "250:200",
+          "to": "JetBlue TrueBlue"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Qantas Frequent Flyer"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Aer Lingus AerClub"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Iberia Club"
+        },
+        {
+          "bonusExpires": "2026-10-14",
+          "bonusPct": 30,
+          "ratio": "1:2",
+          "to": "Hilton Honors"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Marriott Bonvoy"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Choice Privileges"
+        },
+        {
+          "ratio": "4:1",
+          "to": "Leading Hotels of the World"
+        }
+      ]
+    },
+    {
+      "id": "CITI",
+      "minTransfer": 1000,
+      "name": "Citi ThankYou Points",
+      "transfers": [
+        {
+          "ratio": "1:1",
+          "to": "Air France-KLM Flying Blue",
+          "transferTime": "instant"
+        },
+        {
+          "note": "Premium cards only (Strata Premier/Elite, Prestige)",
+          "ratio": "1:1",
+          "to": "American Airlines AAdvantage",
+          "transferTime": "instant"
+        },
+        {
+          "bonusExpires": "2026-10-24",
+          "bonusPct": 25,
+          "ratio": "1:1",
+          "to": "Avianca LifeMiles",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Cathay Pacific Asia Miles",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:0.8",
+          "to": "Emirates Skywards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Etihad Guest",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "EVA Air Infinity MileageLands",
+          "transferTime": "1-2 days"
+        },
+        {
+          "bonusExpires": "2026-10-24",
+          "bonusPct": 30,
+          "ratio": "1:1",
+          "to": "Japan Airlines Mileage Bank",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "JetBlue TrueBlue",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Malaysia Airlines Enrich",
+          "transferTime": "~2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Qantas Frequent Flyer",
+          "transferTime": "1-2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Qatar Airways Privilege Club",
+          "transferTime": "1-2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Singapore Airlines KrisFlyer",
+          "transferTime": "~1 day"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Thai Airways Royal Orchid Plus",
+          "transferTime": "3-7 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Turkish Airlines Miles&Smiles",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Virgin Atlantic Flying Club",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "2:1",
+          "to": "Accor Live Limitless",
+          "transferTime": "~1 day"
+        },
+        {
+          "ratio": "1:1.5",
+          "to": "Choice Privileges",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "5:1",
+          "to": "Leading Hotels of the World",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:2",
+          "to": "I Prefer Hotel Rewards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Wyndham Rewards",
+          "transferTime": "instant"
+        }
+      ]
+    },
+    {
+      "id": "CAP1",
+      "minTransfer": 1000,
+      "name": "Capital One Miles",
+      "transfers": [
+        {
+          "ratio": "1:1",
+          "to": "Aeromexico Rewards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Air Canada Aeroplan",
+          "transferTime": "instant"
+        },
+        {
+          "bonusExpires": "2026-10-31",
+          "bonusPct": 20,
+          "ratio": "1:1",
+          "to": "Air France-KLM Flying Blue",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Avianca LifeMiles",
+          "transferTime": "instant"
+        },
+        {
+          "bonusExpires": "2026-10-31",
+          "bonusPct": 20,
+          "ratio": "1:1",
+          "to": "British Airways Club",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Cathay Pacific Asia Miles"
+        },
+        {
+          "note": "Devalued from 1:1 on Jan 13, 2026",
+          "ratio": "2:1.5",
+          "to": "Emirates Skywards"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Etihad Guest"
+        },
+        {
+          "ratio": "2:1.5",
+          "to": "EVA Air Infinity MileageLands"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Finnair Plus",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "2:1.5",
+          "to": "Japan Airlines Mileage Bank"
+        },
+        {
+          "ratio": "5:3",
+          "to": "JetBlue TrueBlue"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Qantas Frequent Flyer"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Qatar Airways Privilege Club"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Singapore Airlines KrisFlyer"
+        },
+        {
+          "ratio": "1:1",
+          "to": "TAP Air Portugal Miles&Go"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Turkish Airlines Miles&Smiles"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Virgin Red",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "2:1",
+          "to": "Accor Live Limitless"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Choice Privileges"
+        },
+        {
+          "ratio": "1:2",
+          "to": "I Prefer Hotel Rewards"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Wyndham Rewards",
+          "transferTime": "instant"
+        }
+      ]
+    },
+    {
+      "id": "BILT",
+      "minTransfer": 1000,
+      "name": "Bilt Rewards",
+      "transfers": [
+        {
+          "ratio": "1:1",
+          "to": "Aer Lingus AerClub",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Air Canada Aeroplan",
+          "transferTime": "1-2 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Air France-KLM Flying Blue",
+          "transferTime": "instant"
+        },
+        {
+          "note": "Combined Alaska Airlines + Hawaiian Airlines program (launched 2026); book American Airlines flights via Atmos",
+          "ratio": "1:1",
+          "to": "Alaska Atmos Rewards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Avianca LifeMiles",
+          "transferTime": "~3 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "British Airways Club",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Cathay Pacific Asia Miles",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Emirates Skywards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Etihad Guest",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Iberia Club",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Japan Airlines Mileage Bank",
+          "transferTime": "multi-day"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Qatar Airways Privilege Club",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Southwest Rapid Rewards",
+          "transferTime": "~3 days"
+        },
+        {
+          "ratio": "1:1",
+          "to": "TAP Air Portugal Miles&Go",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Turkish Airlines Miles&Smiles",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "United MileagePlus",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Virgin Red",
+          "transferTime": "instant"
+        },
+        {
+          "to": "Amtrak Guest Rewards",
+          "ratio": "2:1",
+          "transferTime": "2 days",
+          "note": "Added 2026-09-23"
+        },
+        {
+          "ratio": "3:2",
+          "to": "Accor Live Limitless",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Hilton Honors",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "IHG One Rewards",
+          "transferTime": "instant"
+        },
+        {
+          "note": "+5,000 bonus points for every 20,000 points transferred in a single transfer",
+          "ratio": "1:1",
+          "to": "Marriott Bonvoy",
+          "transferTime": "1-2 days"
+        },
+        {
+          "note": "1:1 through Dec 31, 2026; drops to 4:3 on Jan 1, 2027 for all members",
+          "ratio": "1:1",
+          "to": "World of Hyatt",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:1",
+          "to": "Wyndham Rewards",
+          "transferTime": "instant"
+        },
+        {
+          "ratio": "1:2",
+          "to": "I Prefer Hotel Rewards",
+          "transferTime": "instant"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-02"
+}
