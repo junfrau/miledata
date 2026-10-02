@@ -1,5 +1,5 @@
 {
-  "bonusUpdatedAt": "2026-09-28",
+  "bonusUpdatedAt": "2026-10-02",
   "cards": [
     {
       "annualFee": 95,
@@ -428,7 +428,7 @@
       "previousSignupBonus": null
     },
     {
-      "annualFee": 99,
+      "annualFee": 150,
       "applyUrl": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
       "brand": "IHG",
       "cardName": "IHG One Rewards Premier",
@@ -448,14 +448,20 @@
       "pointValueCpp": 0.6,
       "rewardCurrency": "IHG One Rewards",
       "signupBonus": {
+        "bonus": "180,000 points",
+        "spend": "$3,000 in 3 months",
+        "description": "Earn 180,000 bonus points after you spend $3,000 in the first 3 months, plus 10,000 more when you add an authorized user. Card revamped October 2026: anniversary free night cap raised to 50,000 points, new $100 F&B + $100 airline credits, fee raised to $150.",
+        "estimatedValueUsd": 900,
+        "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
+      },
+      "sourceNote": "seed-2026-09-27: 10x IHG stays, 5x travel/dining/gas",
+      "isBusiness": false,
+      "previousSignupBonus": {
         "bonus": "140,000 points",
         "description": "Earn 140,000 bonus points after you spend $3,000 in the first 3 months",
         "estimatedValueUsd": 700,
         "spend": "$3,000 in 3 months"
-      },
-      "sourceNote": "seed-2026-09-27: 10x IHG stays, 5x travel/dining/gas",
-      "isBusiness": false,
-      "previousSignupBonus": null
+      }
     },
     {
       "airlineBonusMiles": 60000,
@@ -475,15 +481,21 @@
       "pointValueCpp": 1.2,
       "rewardCurrency": "United MileagePlus",
       "signupBonus": {
+        "bonus": "up to 80,000 miles",
+        "spend": "$3,000 in 3 months",
+        "description": "Earn up to 80,000 bonus miles: 70,000 after $3,000 in 3 months, plus 10,000 for adding an authorized user",
+        "estimatedValueUsd": 960,
+        "note": "10,000 miles require an authorized-user purchase; limited-time elevated offer"
+      },
+      "sourceNote": "seed-2026-09-27: $0 intro annual fee first year, 2x United/dining/hotels",
+      "isBusiness": false,
+      "previousSignupBonus": {
         "bonus": "up to 60,000 miles",
         "description": "Earn up to 60,000 bonus miles: 50,000 after $3,000 in 3 months, plus 10,000 for adding an authorized user",
         "estimatedValueUsd": 720,
         "note": "10,000 miles require an authorized-user purchase",
         "spend": "$3,000 in 3 months"
-      },
-      "sourceNote": "seed-2026-09-27: $0 intro annual fee first year, 2x United/dining/hotels",
-      "isBusiness": false,
-      "previousSignupBonus": null
+      }
     },
     {
       "airlineBonusMiles": 50000,
@@ -641,13 +653,18 @@
       "category": "hotel",
       "isBusiness": false,
       "signupBonus": {
+        "bonus": "85,000 points",
+        "spend": "$5,000 in 6 months",
+        "description": "Earn 85,000 points after you spend $5,000 in 6 months. Limited-time 125,000 + $150 statement credit offer ended 2026-09-30.",
+        "estimatedValueUsd": 638
+      },
+      "previousSignupBonus": {
         "bonus": "125,000 points + $150 statement credit",
         "spend": "$5,000 in 6 months",
         "description": "Earn 125,000 points + $150 statement credit after you spend $5,000 in 6 months",
         "estimatedValueUsd": 1090,
         "note": "limited-time, ends 2026-09-30"
       },
-      "previousSignupBonus": null,
       "brand": "Marriott"
     },
     {
@@ -668,13 +685,18 @@
       "category": "hotel",
       "isBusiness": false,
       "signupBonus": {
+        "bonus": "100,000 points",
+        "spend": "$6,000 in 6 months",
+        "description": "Earn 100,000 points after you spend $6,000 in 6 months. Limited-time 150,000 + $250 statement credit offer ended 2026-09-30.",
+        "estimatedValueUsd": 750
+      },
+      "previousSignupBonus": {
         "bonus": "150,000 points + $250 statement credit",
         "spend": "$6,000 in 6 months",
         "description": "Earn 150,000 points + $250 statement credit after you spend $6,000 in 6 months",
         "estimatedValueUsd": 1380,
         "note": "limited-time, ends 2026-09-30"
       },
-      "previousSignupBonus": null,
       "brand": "Marriott",
       "hotelFreeNight": {
         "maxValueUsd": 595,
@@ -811,12 +833,18 @@
       "category": "hotel",
       "isBusiness": false,
       "signupBonus": {
+        "bonus": "125,000 points",
+        "spend": "$2,000 in 3 months",
+        "description": "Earn 125,000 points after you spend $2,000 in the first 3 months, plus 10,000 more when you add an authorized user. All-time-high offer; card refreshed and renamed October 2026.",
+        "estimatedValueUsd": 750,
+        "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
+      },
+      "previousSignupBonus": {
         "bonus": "80,000 points",
         "spend": "$2,000 in 3 months",
         "description": "Earn 80,000 points after you spend $2,000 in 3 months",
         "estimatedValueUsd": 480
       },
-      "previousSignupBonus": null,
       "brand": "IHG"
     },
     {
@@ -868,12 +896,18 @@
       "brand": "United",
       "isBusiness": false,
       "signupBonus": {
+        "bonus": "up to 90,000 miles + 500 PQP",
+        "spend": "$4,000 in 3 months",
+        "description": "Earn 80,000 bonus miles + 500 PQP after you spend $4,000 in the first 3 months, plus 10,000 more miles when you add an authorized user (up to 90,000 miles)",
+        "estimatedValueUsd": 1080,
+        "note": "10,000 miles require an authorized-user purchase; limited-time elevated offer"
+      },
+      "previousSignupBonus": {
         "bonus": "up to 70,000 miles + 500 PQP",
         "spend": "$4,000 in 3 months",
         "description": "Earn 60,000 bonus miles + 500 PQP after you spend $4,000 in the first 3 months, plus 10,000 more miles when you add an authorized user (up to 70,000 miles)",
         "estimatedValueUsd": 840
       },
-      "previousSignupBonus": null,
       "airlineBonusMiles": 70000
     },
     {
@@ -895,12 +929,18 @@
       "brand": "United",
       "isBusiness": false,
       "signupBonus": {
+        "bonus": "up to 100,000 miles",
+        "spend": "$5,000 in 3 months",
+        "description": "Earn 90,000 bonus miles after you spend $5,000 in the first 3 months, plus 10,000 more miles when you add an authorized user (up to 100,000 miles)",
+        "estimatedValueUsd": 1200,
+        "note": "10,000 miles require an authorized-user purchase; limited-time elevated offer"
+      },
+      "previousSignupBonus": {
         "bonus": "up to 90,000 miles",
         "spend": "$5,000 in 3 months",
         "description": "Earn 80,000 bonus miles after you spend $5,000 in the first 3 months, plus 10,000 more miles when you add an authorized user (up to 90,000 miles)",
         "estimatedValueUsd": 1080
       },
-      "previousSignupBonus": null,
       "airlineBonusMiles": 90000,
       "loungeAccess": "United Club"
     },
@@ -923,13 +963,19 @@
       "brand": "United",
       "isBusiness": true,
       "signupBonus": {
+        "bonus": "up to 100,000 miles + 2,000 PQP",
+        "spend": "$5,000 in 3 months",
+        "description": "Earn 90,000 bonus miles + 2,000 PQP after you spend $5,000 in the first 3 months, plus 10,000 more miles when you add an authorized user (up to 100,000 miles)",
+        "estimatedValueUsd": 1200,
+        "note": "10,000 miles require an authorized-user purchase"
+      },
+      "previousSignupBonus": {
         "bonus": "up to 110,000 miles + 2,000 PQP",
         "spend": "$5,000 in 3 months",
         "description": "Earn 100,000 bonus miles + 2,000 PQP after you spend $5,000 in the first 3 months, plus 10,000 more miles when you add an employee card (up to 110,000 miles) [limited-time]",
         "estimatedValueUsd": 1320,
         "note": "limited-time"
       },
-      "previousSignupBonus": null,
       "airlineBonusMiles": 110000
     },
     {
@@ -1353,12 +1399,18 @@
       "category": "general",
       "isBusiness": true,
       "signupBonus": {
+        "bonus": "Up to 200,000 points",
+        "spend": "$15,000 in first 3 months of Membership",
+        "description": "You may be eligible for as high as 200,000 Membership Rewards points after spending $15,000 in eligible purchases in your first 3 months of Membership. 4X on the top 2 spending categories each billing cycle (first $150,000/yr combined); 3X on flights and prepaid hotels booked via AmexTravel; 1X on all other purchases.",
+        "estimatedValueUsd": 4000,
+        "note": "offer varies by applicant"
+      },
+      "previousSignupBonus": {
         "bonus": "175,000 points",
         "spend": "$15,000 in first 3 months",
         "description": "Earn 175,000 Membership Rewards points after spending $15,000 in eligible purchases in the first 3 months. 4X on the top 2 spending categories each billing cycle (first $150,000/yr combined); 3X on flights and prepaid hotels booked via AmexTravel; 1X on all other purchases.",
         "estimatedValueUsd": 3500
-      },
-      "previousSignupBonus": null
+      }
     },
     {
       "issuer": "American Express",
@@ -1439,6 +1491,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-02",
   "version": 1
 }
