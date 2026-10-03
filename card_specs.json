@@ -17,19 +17,19 @@
       "pointValueCpp": 2.05,
       "rewardCurrency": "Ultimate Rewards",
       "signupBonus": {
+        "bonus": "75,000 points",
+        "spend": "$5,000 in 3 months",
+        "description": "Earn 75,000 bonus points after you spend $5,000 on purchases in the first 3 months",
+        "estimatedValueUsd": 1500
+      },
+      "sourceNote": "seed-2026-09-27",
+      "isBusiness": false,
+      "previousSignupBonus": {
         "bonus": "100,000 points",
         "spend": "$5,000 in 3 months",
         "note": "Limited-time elevated offer (standard offer is 75,000 points); ending soon per TPG",
         "description": "Earn 100,000 bonus points after you spend $5,000 on purchases in the first 3 months",
         "estimatedValueUsd": 2050
-      },
-      "sourceNote": "seed-2026-09-27",
-      "isBusiness": false,
-      "previousSignupBonus": {
-        "bonus": "75,000 points",
-        "description": "Earn 75,000 bonus points after you spend $5,000 on purchases in the first 3 months",
-        "estimatedValueUsd": 1500,
-        "spend": "$5,000 in 3 months"
       }
     },
     {
