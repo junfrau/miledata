@@ -855,9 +855,9 @@
     },
     {
       "issuer": "Chase",
-      "cardName": "IHG One Rewards Premier Business",
+      "cardName": "IHG One Rewards Business",
       "applyUrl": "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
-      "annualFee": 99,
+      "annualFee": 200,
       "rewardCurrency": "IHG One Rewards",
       "categoryMultipliers": {
         "외식": 5,
