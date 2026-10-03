@@ -244,7 +244,10 @@
         {
           "ratio": "1:1",
           "to": "Qatar Airways Privilege Club",
-          "transferTime": "1-2 days"
+          "transferTime": "1-2 days",
+          "bonusPct": 35,
+          "bonusExpires": "2026-10-31",
+          "note": "Tiered on Qatar end: 15% (<50,000 Avios), 25% (50,000-99,999), 35% (100,000+) per single transfer"
         },
         {
           "ratio": "1:1",
@@ -538,5 +541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-02"
+  "updatedAt": "2026-10-03"
 }
