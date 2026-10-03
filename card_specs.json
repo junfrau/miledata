@@ -1,5 +1,5 @@
 {
-  "bonusUpdatedAt": "2026-10-02",
+  "bonusUpdatedAt": "2026-10-03",
   "cards": [
     {
       "annualFee": 95,
@@ -356,13 +356,19 @@
       "rewardCurrency": "Marriott Bonvoy",
       "signupBonus": {
         "bonus": "3 Free Night Awards (up to 50,000 pts each)",
-        "description": "Earn 3 Free Night Awards (up to 50,000 points each) after you spend $3,000 in the first 3 months",
-        "estimatedValueUsd": 1300,
-        "spend": "$3,000 in 3 months"
+        "spend": "$3,000 in 3 months",
+        "note": "Limited-time special offer through 6/30/2027: get up to $100 in airline statement credits after spending $500 on eligible airline purchases ($50 per half: spend $250 by 12/31/2026, another $50 on $250+ spend 1/1/2027-6/30/2027)",
+        "description": "Earn 3 Free Night Awards (up to 50,000 points each) after you spend $3,000 in the first 3 months, plus up to $100 in airline statement credits through 6/30/2027.",
+        "estimatedValueUsd": 1225
       },
       "sourceNote": "seed-2026-09-27: 6x Marriott stays, 3x dining/gas/grocery (first $6k/yr combined)",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": {
+        "bonus": "3 Free Night Awards (up to 50,000 pts each)",
+        "description": "Earn 3 Free Night Awards (up to 50,000 points each) after you spend $3,000 in the first 3 months",
+        "estimatedValueUsd": 1300,
+        "spend": "$3,000 in 3 months"
+      }
     },
     {
       "annualFee": 550,
@@ -865,12 +871,18 @@
       "category": "hotel",
       "isBusiness": true,
       "signupBonus": {
+        "bonus": "190,000 points",
+        "spend": "$5,000 in 3 months",
+        "note": "10,000 bonus points require adding an employee card in the first 3 months",
+        "description": "Earn 190,000 bonus points after you spend $5,000 in the first 3 months, plus 10,000 more when you add an employee card.",
+        "estimatedValueUsd": 1140
+      },
+      "previousSignupBonus": {
         "bonus": "140,000 points",
         "spend": "$4,000 in 3 months",
         "description": "Earn 140,000 points after you spend $4,000 in 3 months",
         "estimatedValueUsd": 840
       },
-      "previousSignupBonus": null,
       "brand": "IHG",
       "hotelFreeNight": {
         "maxValueUsd": 240,
@@ -1491,6 +1503,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "version": 1
 }
