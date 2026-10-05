@@ -179,9 +179,9 @@
       "rewardCurrency": "Cashback",
       "signupBonus": {
         "bonus": "up to $300",
-        "description": "Earn as high as $300 back after you spend $3,000 in the first 6 months (offers vary) [limited-time]",
+        "description": "Earn as high as $300 back after you spend $3,000 in the first 6 months (offers vary)",
         "estimatedValueUsd": 300,
-        "note": "limited-time offer",
+        "note": "offer varies by applicant",
         "spend": "$3,000 in 6 months"
       },
       "sourceNote": "seed-2026-09-27: 6% US supermarkets (up to $6k/yr), $0 intro annual fee first year",
@@ -1509,6 +1509,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "version": 1
 }
