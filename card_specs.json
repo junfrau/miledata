@@ -1,5 +1,5 @@
 {
-  "bonusUpdatedAt": "2026-10-03",
+  "bonusUpdatedAt": "2026-10-05",
   "cards": [
     {
       "annualFee": 95,
@@ -1506,6 +1506,63 @@
         "estimatedValueUsd": 1850
       },
       "previousSignupBonus": null
+    },
+    {
+      "annualFee": 350,
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+      "brand": "IHG",
+      "cardName": "IHG One Rewards Premier Select",
+      "category": "hotel",
+      "categoryMultipliers": {
+        "기타": 3,
+        "마트/식료품": 3,
+        "여행": 12,
+        "외식": 6,
+        "주유": 3
+      },
+      "hotelFreeNight": {
+        "maxValueUsd": 360,
+        "nights": 1
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 0.6,
+      "rewardCurrency": "IHG One Rewards",
+      "signupBonus": {
+        "bonus": "200,000 points",
+        "spend": "$5,000 in 3 months",
+        "description": "Earn 200,000 bonus points after you spend $5,000 in the first 3 months from account opening, plus 10,000 more when you add an authorized user. Card launched October 2026: 60,000-point anniversary free night, $300/yr IHG F&B credits ($75/quarter), $200 airline credit, Platinum Elite status.",
+        "estimatedValueUsd": 1200,
+        "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
+      },
+      "sourceNote": "added-2026-10-05: 6 independent launch sources agree on terms (NerdWallet, TPG, dannydealguru, onemileatatime, joinkudos, creditodds); applyUrl pattern-verified via HTTP 200 (content not yet read); official Chase page re-verification of offer terms still needed",
+      "isBusiness": false
+    },
+    {
+      "airlineBonusMiles": 50000,
+      "annualFee": 0,
+      "applyUrl": "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
+      "brand": "United",
+      "cardName": "United Gateway",
+      "category": "airline",
+      "categoryMultipliers": {
+        "기타": 1,
+        "마트/식료품": 1,
+        "여행": 2,
+        "외식": 1,
+        "주유": 2
+      },
+      "issuer": "Chase",
+      "pointValueCpp": 1.2,
+      "rewardCurrency": "United MileagePlus",
+      "signupBonus": {
+        "bonus": "up to 50,000 miles",
+        "spend": "$1,000 in 3 months",
+        "description": "Earn up to 50,000 bonus miles: 40,000 after $1,000 in 3 months, plus 10,000 for adding an authorized user",
+        "estimatedValueUsd": 600,
+        "note": "10,000 miles require an authorized-user purchase; limited-time elevated offer, highest-ever Gateway offer (third-party sources; official page re-verification pending)"
+      },
+      "sourceNote": "added-2026-10-05: Oct 2026 all-time-high 50k offer (NerdWallet, TPG, CNN Underscored, Travel on Points agree); applyUrl pattern-verified via HTTP 200 (content not yet read); earn rates per NerdWallet comparison table, pending official verification",
+      "isBusiness": false
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
