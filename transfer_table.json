@@ -312,8 +312,6 @@
           "transferTime": "instant"
         },
         {
-          "bonusExpires": "2026-10-31",
-          "bonusPct": 20,
           "ratio": "1:1",
           "to": "Air France-KLM Flying Blue",
           "transferTime": "instant"
@@ -541,5 +539,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-05"
+  "updatedAt": "2026-10-06"
 }
