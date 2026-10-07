@@ -1408,7 +1408,7 @@
     {
       "issuer": "American Express",
       "cardName": "American Express Business Gold",
-      "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/business-gold/",
+      "applyUrl": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
       "annualFee": 375,
       "rewardCurrency": "Membership Rewards",
       "categoryMultipliers": {
@@ -1573,6 +1573,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "version": 1
 }
