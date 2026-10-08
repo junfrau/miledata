@@ -1,5 +1,5 @@
 {
-  "bonusUpdatedAt": "2026-10-06",
+  "bonusUpdatedAt": "2026-10-08",
   "cards": [
     {
       "annualFee": 95,
@@ -178,18 +178,18 @@
       "pointValueCpp": 1.0,
       "rewardCurrency": "Cashback",
       "signupBonus": {
-        "bonus": "$250",
-        "description": "Earn $250 cash back after you spend $3,000 in purchases in the first 6 months of Card Membership (offers vary by applicant)",
-        "estimatedValueUsd": 250,
+        "bonus": "up to $300 cash back",
+        "description": "Earn up to $300 cash back after you spend $3,000 in purchases in the first 6 months of Card Membership (offers vary by applicant)",
+        "estimatedValueUsd": 300,
         "note": "offer varies by applicant",
         "spend": "$3,000 in 6 months"
       },
       "sourceNote": "seed-2026-09-27: 6% US supermarkets (up to $6k/yr), $0 intro annual fee first year",
       "isBusiness": false,
       "previousSignupBonus": {
-        "bonus": "up to $300",
-        "description": "Earn as high as $300 back after you spend $3,000 in the first 6 months (offers vary)",
-        "estimatedValueUsd": 300,
+        "bonus": "$250",
+        "description": "Earn $250 cash back after you spend $3,000 in purchases in the first 6 months of Card Membership (offers vary by applicant)",
+        "estimatedValueUsd": 250,
         "note": "offer varies by applicant",
         "spend": "$3,000 in 6 months"
       }
@@ -1162,12 +1162,18 @@
       "brand": "American",
       "isBusiness": false,
       "signupBonus": {
+        "bonus": "80,000 miles",
+        "spend": "$3,500 in 4 months",
+        "description": "Earn 80,000 AAdvantage miles after you spend $3,500 in the first 4 months (limited-time offer)",
+        "estimatedValueUsd": 1360,
+        "note": "limited-time offer"
+      },
+      "previousSignupBonus": {
         "bonus": "50,000 miles",
         "spend": "$2,500 in 3 months",
         "description": "Earn 50,000 AAdvantage miles after you spend $2,500 in the first 3 months",
         "estimatedValueUsd": 850
       },
-      "previousSignupBonus": null,
       "airlineBonusMiles": 50000
     },
     {
@@ -1423,17 +1429,17 @@
       "category": "general",
       "isBusiness": true,
       "signupBonus": {
+        "bonus": "up to 200,000 points",
+        "spend": "$15,000 in first 3 months",
+        "description": "Earn up to 200,000 Membership Rewards points after you spend $15,000 in eligible purchases in your first 3 months of Card Membership (welcome offers vary and you may not be eligible for an offer). 4X on the top 2 spending categories each billing cycle (first $150,000/yr combined); 3X on flights and prepaid hotels booked via AmexTravel; 1X on all other purchases.",
+        "estimatedValueUsd": 4000,
+        "note": "welcome offers vary and you may not be eligible for an offer"
+      },
+      "previousSignupBonus": {
         "bonus": "175,000 points",
         "spend": "$15,000 in first 3 months",
         "description": "Earn 175,000 Membership Rewards points after you spend $15,000 in eligible purchases in your first 3 months of Card Membership. 4X on the top 2 spending categories each billing cycle (first $150,000/yr combined); 3X on flights and prepaid hotels booked via AmexTravel; 1X on all other purchases.",
         "estimatedValueUsd": 3500,
-        "note": "offer varies by applicant"
-      },
-      "previousSignupBonus": {
-        "bonus": "Up to 200,000 points",
-        "spend": "$15,000 in first 3 months of Membership",
-        "description": "You may be eligible for as high as 200,000 Membership Rewards points after spending $15,000 in eligible purchases in your first 3 months of Membership. 4X on the top 2 spending categories each billing cycle (first $150,000/yr combined); 3X on flights and prepaid hotels booked via AmexTravel; 1X on all other purchases.",
-        "estimatedValueUsd": 4000,
         "note": "offer varies by applicant"
       }
     },
@@ -1573,6 +1579,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "version": 1
 }
