@@ -1579,6 +1579,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "version": 1
 }
