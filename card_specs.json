@@ -885,7 +885,7 @@
       "signupBonus": {
         "bonus": "190,000 points",
         "spend": "$5,000 in 3 months",
-        "note": "10,000 bonus points require adding an employee card in the first 3 months",
+        "note": "10,000 bonus points require adding an employee card in the first 3 months; limited-time, ends 2026-11-18",
         "description": "Earn 190,000 bonus points after you spend $5,000 in the first 3 months, plus 10,000 more when you add an employee card.",
         "estimatedValueUsd": 1140
       },
@@ -1579,6 +1579,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "version": 1
 }
