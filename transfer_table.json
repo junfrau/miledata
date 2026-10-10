@@ -1,5 +1,5 @@
 {
-  "notes": "Ratios verified Oct 1, 2026 via point.me / frequentmiler / upgradedpoints / awardwallet / thepointsguy / nerdwallet. bonusPct is an extra transfer bonus active now (0 = none). transferTime is included only where confirmed. CITI, CAP1 and BILT programs added Oct 1, 2026.",
+  "notes": "Ratios verified Oct 1, 2026 via point.me / frequentmiler / upgradedpoints / awardwallet / thepointsguy / nerdwallet. bonusPct is an extra transfer bonus active now (0 = none). transferTime is included only where confirmed. CITI, CAP1 and BILT programs added Oct 1, 2026. Bilt to World of Hyatt changes from 1:1 to 4:3 effective Jan 1, 2027 (announced Oct 1, 2026; 1:1 rate stays live through Dec 31, 2026).",
   "programs": [
     {
       "id": "UR",
@@ -539,5 +539,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-09"
+  "updatedAt": "2026-10-10"
 }
