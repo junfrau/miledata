@@ -1,5 +1,5 @@
 {
-  "bonusUpdatedAt": "2026-10-08",
+  "bonusUpdatedAt": "2026-10-12",
   "cards": [
     {
       "annualFee": 95,
@@ -99,15 +99,20 @@
       "pointValueCpp": 1.0,
       "rewardCurrency": "Cashback",
       "signupBonus": {
+        "bonus": "$200",
+        "description": "Earn a $200 bonus after you spend $500 on purchases in the first 3 months",
+        "estimatedValueUsd": 200,
+        "spend": "$500 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 5% on rotating quarterly categories (up to $1500/qtr, activation required)",
+      "isBusiness": false,
+      "previousSignupBonus": {
         "bonus": "$250",
         "description": "Earn a $250 bonus after you spend $500 on purchases in the first 3 months [limited-time]",
         "estimatedValueUsd": 250,
         "note": "limited-time offer",
         "spend": "$500 in 3 months"
-      },
-      "sourceNote": "seed-2026-09-27: 5% on rotating quarterly categories (up to $1500/qtr, activation required)",
-      "isBusiness": false,
-      "previousSignupBonus": null
+      }
     },
     {
       "annualFee": 325,
@@ -337,14 +342,19 @@
       "pointValueCpp": 1.0,
       "rewardCurrency": "Cashback",
       "signupBonus": {
-        "bonus": "$100",
-        "description": "Earn a $100 bonus after you spend $500 in the first 3 months",
-        "estimatedValueUsd": 100,
+        "bonus": "$200",
+        "description": "Earn a $200 bonus after you spend $500 on purchases in the first 3 months",
+        "estimatedValueUsd": 200,
         "spend": "$500 in 3 months"
       },
       "sourceNote": "seed-2026-09-27",
       "isBusiness": false,
-      "previousSignupBonus": null
+      "previousSignupBonus": {
+        "bonus": "$100",
+        "description": "Earn a $100 bonus after you spend $500 in the first 3 months",
+        "estimatedValueUsd": 100,
+        "spend": "$500 in 3 months"
+      }
     },
     {
       "annualFee": 95,
@@ -1579,6 +1589,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-12",
   "version": 1
 }
