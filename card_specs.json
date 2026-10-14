@@ -1,5 +1,5 @@
 {
-  "bonusUpdatedAt": "2026-10-13",
+  "bonusUpdatedAt": "2026-10-14",
   "cards": [
     {
       "annualFee": 95,
@@ -178,20 +178,20 @@
       "pointValueCpp": 1.0,
       "rewardCurrency": "Cashback",
       "signupBonus": {
+        "bonus": "up to $300 cash back",
+        "spend": "$3,000 in 6 months",
+        "note": "offer varies by applicant",
+        "description": "Earn up to $300 cash back after you spend $3,000 in purchases in the first 6 months of Card Membership (offers vary by applicant)",
+        "estimatedValueUsd": 300
+      },
+      "sourceNote": "seed-2026-09-27: 6% US supermarkets (up to $6k/yr), $0 intro annual fee first year",
+      "isBusiness": false,
+      "previousSignupBonus": {
         "bonus": "$250 cash back",
         "spend": "$3,000 in 6 months",
         "note": "offer varies by applicant",
         "description": "Earn $250 cash back after you spend $3,000 in purchases in the first 6 months of Card Membership (offers vary by applicant)",
         "estimatedValueUsd": 250
-      },
-      "sourceNote": "seed-2026-09-27: 6% US supermarkets (up to $6k/yr), $0 intro annual fee first year",
-      "isBusiness": false,
-      "previousSignupBonus": {
-        "bonus": "up to $300 cash back",
-        "description": "Earn up to $300 cash back after you spend $3,000 in purchases in the first 6 months of Card Membership (offers vary by applicant)",
-        "estimatedValueUsd": 300,
-        "note": "offer varies by applicant",
-        "spend": "$3,000 in 6 months"
       }
     },
     {
@@ -1585,6 +1585,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "version": 1
 }
