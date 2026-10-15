@@ -157,8 +157,6 @@
           "to": "Iberia Club"
         },
         {
-          "bonusExpires": "2026-10-14",
-          "bonusPct": 30,
           "ratio": "1:2",
           "to": "Hilton Honors"
         },
@@ -540,5 +538,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-14"
+  "updatedAt": "2026-10-15"
 }
