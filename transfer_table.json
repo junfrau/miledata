@@ -63,8 +63,6 @@
           "transferTime": "instant"
         },
         {
-          "bonusExpires": "2026-10-15",
-          "bonusPct": 70,
           "ratio": "1:1",
           "to": "Marriott Bonvoy",
           "transferTime": "~2 days"
@@ -320,12 +318,12 @@
           "transferTime": "instant"
         },
         {
-          "bonusExpires": "2026-10-21",
+          "bonusExpires": "2026-10-31",
           "bonusPct": 20,
           "ratio": "1:1",
           "to": "British Airways Club",
           "transferTime": "instant",
-          "note": "Expiry conflict: Frequent Miler quotes offer terms \"Valid until 11:59 pm ET on 10/21/26\"; most trackers (point.me, awardwallet, milesforfamily) report 10/31 — using the terms-quoted date as the safe deadline"
+          "note": "Expiry updated Oct 16, 2026: BA's own partner-page terms run through 10/31/26 (pointsfrog, Oct 15); most trackers (point.me, awardwallet, upgradedpoints, nerdwallet, seatinside, rewardsguru, pointsbrain) agree 10/31. Frequent Miler (Oct 2) alone quotes 10/21 terms."
         },
         {
           "ratio": "1:1",
@@ -538,5 +536,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-16"
 }
