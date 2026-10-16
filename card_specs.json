@@ -1578,13 +1578,13 @@
         "spend": "$1,000 in 3 months",
         "description": "Earn up to 50,000 bonus miles: 40,000 after $1,000 in 3 months, plus 10,000 for adding an authorized user",
         "estimatedValueUsd": 600,
-        "note": "10,000 miles require an authorized-user purchase; limited-time elevated offer, highest-ever Gateway offer (third-party sources; official page re-verification pending)"
+        "note": "10,000 miles require an authorized-user purchase; limited-time elevated offer, highest-ever Gateway offer (verified on the official Chase page 2026-10-16: headline up to 40,000 + 10,000 for authorized user)"
       },
       "sourceNote": "added-2026-10-05: Oct 2026 all-time-high 50k offer (NerdWallet, TPG, CNN Underscored, Travel on Points agree); applyUrl pattern-verified via HTTP 200 (content not yet read); earn rates per NerdWallet comparison table, pending official verification",
       "isBusiness": false
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "version": 1
 }
