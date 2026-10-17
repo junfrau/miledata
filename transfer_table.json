@@ -491,6 +491,11 @@
           "transferTime": "instant"
         },
         {
+          "ratio": "1:1",
+          "to": "Virgin Atlantic Flying Club",
+          "transferTime": "instant"
+        },
+        {
           "to": "Amtrak Guest Rewards",
           "ratio": "2:1",
           "transferTime": "2 days",
@@ -536,5 +541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16"
+  "updatedAt": "2026-10-17"
 }
