@@ -229,11 +229,6 @@
         },
         {
           "ratio": "1:1",
-          "to": "Malaysia Airlines Enrich",
-          "transferTime": "~2 days"
-        },
-        {
-          "ratio": "1:1",
           "to": "Qantas Frequent Flyer",
           "transferTime": "1-2 days"
         },
