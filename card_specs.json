@@ -376,11 +376,11 @@
       "sourceNote": "seed-2026-09-27: 6x Marriott stays, 3x dining/gas/grocery (first $6k/yr combined)",
       "isBusiness": false,
       "previousSignupBonus": {
-        "bonus": "3 Free Night Awards (up to 50,000 pts each)",
+        "bonus": "4 Free Night Awards (up to 50,000 pts each)",
         "spend": "$3,000 in 3 months",
         "note": "Limited-time special offer through 6/30/2027: get up to $100 in airline statement credits after spending $500 on eligible airline purchases ($50 per half: spend $250 by 12/31/2026, another $50 on $250+ spend 1/1/2027-6/30/2027)",
-        "description": "Earn 3 Free Night Awards (up to 50,000 points each) after you spend $3,000 in the first 3 months, plus up to $100 in airline statement credits through 6/30/2027.",
-        "estimatedValueUsd": 1225
+        "description": "Earn 4 Free Night Awards (up to 50,000 points each) after you spend $3,000 in the first 3 months, plus up to $100 in airline statement credits through 6/30/2027.",
+        "estimatedValueUsd": 1600
       }
     },
     {
