@@ -373,6 +373,8 @@
           "to": "Turkish Airlines Miles&Smiles"
         },
         {
+          "bonusExpires": "2026-11-20",
+          "bonusPct": 30,
           "ratio": "1:1",
           "to": "Virgin Red",
           "transferTime": "instant"
@@ -543,5 +545,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-10-22"
 }
