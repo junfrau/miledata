@@ -263,6 +263,11 @@
           "transferTime": "instant"
         },
         {
+          "ratio": "1:1",
+          "to": "Virgin Red",
+          "note": "1:0.7 on no-fee cards; transferTime unverified"
+        },
+        {
           "ratio": "2:1",
           "to": "Accor Live Limitless",
           "transferTime": "~1 day"
@@ -545,5 +550,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-23"
+  "updatedAt": "2026-10-24"
 }
