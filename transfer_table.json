@@ -191,8 +191,6 @@
           "transferTime": "instant"
         },
         {
-          "bonusExpires": "2026-10-24",
-          "bonusPct": 25,
           "ratio": "1:1",
           "to": "Avianca LifeMiles",
           "transferTime": "instant"
@@ -218,8 +216,6 @@
           "transferTime": "1-2 days"
         },
         {
-          "bonusExpires": "2026-10-24",
-          "bonusPct": 30,
           "ratio": "1:1",
           "to": "Japan Airlines Mileage Bank",
           "transferTime": "instant"
@@ -376,6 +372,13 @@
         {
           "ratio": "1:1",
           "to": "Turkish Airlines Miles&Smiles"
+        },
+        {
+          "bonusExpires": "2026-11-20",
+          "bonusPct": 30,
+          "ratio": "1:1",
+          "to": "Virgin Atlantic Flying Club",
+          "transferTime": "instant"
         },
         {
           "bonusExpires": "2026-11-20",
@@ -550,5 +553,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-24"
+  "updatedAt": "2026-10-25"
 }
