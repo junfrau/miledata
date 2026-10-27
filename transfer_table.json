@@ -203,6 +203,11 @@
           "transferTime": "instant"
         },
         {
+          "note": "1:0.7 on no-fee cards; added 2026-10-25; transferTime unverified",
+          "ratio": "1:1",
+          "to": "Copa ConnectMiles"
+        },
+        {
           "ratio": "1:0.8",
           "to": "Emirates Skywards",
           "transferTime": "instant"
@@ -555,5 +560,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-26"
+  "updatedAt": "2026-10-27"
 }
