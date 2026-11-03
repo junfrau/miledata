@@ -344,6 +344,13 @@
           "to": "Cathay Pacific Asia Miles"
         },
         {
+          "ratio": "2:1.5",
+          "to": "Copa Airlines ConnectMiles",
+          "bonusPct": 30,
+          "bonusExpires": "2026-12-01",
+          "note": "Added Nov 2, 2026; 30% launch bonus through 11:59pm ET Dec 1, 2026 (975 miles per 1,000 Cap1 miles); Star Alliance partner"
+        },
+        {
           "note": "Devalued from 1:1 on Jan 13, 2026",
           "ratio": "2:1.5",
           "to": "Emirates Skywards"
@@ -569,5 +576,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-02"
+  "updatedAt": "2026-11-03"
 }
