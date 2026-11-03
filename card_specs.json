@@ -1,5 +1,5 @@
 {
-  "bonusUpdatedAt": "2026-10-31",
+  "bonusUpdatedAt": "2026-11-03",
   "cards": [
     {
       "annualFee": 95,
@@ -564,15 +564,21 @@
       "pointValueCpp": 1.7,
       "rewardCurrency": "American AAdvantage",
       "signupBonus": {
+        "bonus": "80,000 miles",
+        "description": "Earn 80,000 bonus miles after you spend $8,000 in the first 3 months",
+        "estimatedValueUsd": 1120,
+        "note": "",
+        "spend": "$8,000 in 3 months"
+      },
+      "sourceNote": "seed-2026-09-27: 4x eligible AA purchases; fee raised from $595 in Aug 2026",
+      "isBusiness": false,
+      "previousSignupBonus": {
         "bonus": "125,000 miles",
         "description": "Earn 125,000 bonus miles after you spend $15,000 in the first 5 months [limited-time]",
         "estimatedValueUsd": 1750,
         "note": "limited-time",
         "spend": "$15,000 in 5 months"
       },
-      "sourceNote": "seed-2026-09-27: 4x eligible AA purchases; fee raised from $595 in Aug 2026",
-      "isBusiness": false,
-      "previousSignupBonus": null,
       "loungeAccess": "Admirals Club"
     },
     {
@@ -1617,6 +1623,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "version": 1
 }
