@@ -119,7 +119,9 @@
         },
         {
           "ratio": "1:1",
-          "to": "Virgin Atlantic Flying Club"
+          "to": "Virgin Atlantic Flying Club",
+          "bonusPct": 30,
+          "bonusExpires": "2026-11-30"
         },
         {
           "ratio": "1:1",
@@ -576,5 +578,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03"
+  "updatedAt": "2026-11-04"
 }
