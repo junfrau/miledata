@@ -375,7 +375,7 @@
       "signupBonus": {
         "bonus": "200,000 points",
         "spend": "$3,000 in 3 months",
-        "note": "Limited-time 200,000-point offer, 'this week only' — ends 2026-11-11; plus up to $100 in airline statement credits after spending $500 on eligible airline purchases ($50 per half: spend $250 by 12/31/2026, another $50 on $250+ spend 1/1/2027-6/30/2027)",
+        "note": "Limited-time 200,000-point offer, 'this week only' (still live 2026-11-12, past previously noted 11/11 end); plus up to $100 in airline statement credits after spending $500 on eligible airline purchases ($50 per half: spend $250 by 12/31/2026, another $50 on $250+ spend 1/1/2027-6/30/2027)",
         "description": "Earn 200,000 Bonus Points after you spend $3,000 in the first 3 months, plus up to $100 in airline statement credits through 6/30/2027.",
         "estimatedValueUsd": 1500
       },
@@ -1670,6 +1670,6 @@
     }
   ],
   "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "version": 1
 }
