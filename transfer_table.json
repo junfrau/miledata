@@ -385,7 +385,9 @@
     },
     {
      "ratio": "1:1",
-     "to": "Qatar Airways Privilege Club"
+     "to": "Qatar Airways Privilege Club",
+     "bonusPct": 15,
+     "bonusExpires": "2026-12-14"
     },
     {
      "ratio": "1:1",
@@ -579,5 +581,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-15"
+ "updatedAt": "2026-11-16"
 }
