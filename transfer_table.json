@@ -32,7 +32,9 @@
     {
      "ratio": "1:1",
      "to": "Virgin Atlantic Flying Club",
-     "transferTime": "~2 days"
+     "transferTime": "~2 days",
+     "bonusPct": 40,
+     "bonusExpires": "2026-12-30"
     },
     {
      "ratio": "1:1",
@@ -141,7 +143,9 @@
     },
     {
      "ratio": "1:1",
-     "to": "Avianca LifeMiles"
+     "to": "Avianca LifeMiles",
+     "bonusPct": 10,
+     "bonusExpires": "2026-12-16"
     },
     {
      "ratio": "1:1.6",
@@ -581,5 +585,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-16"
+ "updatedAt": "2026-11-17"
 }
