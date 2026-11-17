@@ -1,5 +1,5 @@
 {
- "bonusUpdatedAt": "2026-11-15",
+ "bonusUpdatedAt": "2026-11-17",
  "cards": [
   {
    "annualFee": 95,
@@ -479,11 +479,11 @@
    "pointValueCpp": 0.6,
    "rewardCurrency": "IHG One Rewards",
    "signupBonus": {
-    "bonus": "180,000 points",
+    "bonus": "140,000 points",
     "spend": "$3,000 in 3 months",
-    "description": "Earn 180,000 bonus points after you spend $3,000 in the first 3 months, plus 10,000 more when you add an authorized user. Card revamped October 2026: anniversary free night cap raised to 50,000 points, new $100 F&B + $100 airline credits, fee raised to $150.",
-    "estimatedValueUsd": 1080,
-    "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
+    "description": "Earn 140,000 bonus points after you spend $3,000 in the first 3 months, plus 10,000 more when you add an authorized user. Card revamped October 2026: anniversary free night cap raised to 50,000 points, new $100 F&B + $100 airline credits, fee raised to $150.",
+    "estimatedValueUsd": 840,
+    "note": "10,000 points require adding an authorized user"
    },
    "sourceNote": "seed-2026-09-27: 10x IHG stays, 5x travel/dining/gas",
    "isBusiness": false,
@@ -491,7 +491,7 @@
     "bonus": "180,000 points",
     "spend": "$3,000 in 3 months",
     "description": "Earn 180,000 bonus points after you spend $3,000 in the first 3 months, plus 10,000 more when you add an authorized user. Card revamped October 2026: anniversary free night cap raised to 50,000 points, new $100 F&B + $100 airline credits, fee raised to $150.",
-    "estimatedValueUsd": 900,
+    "estimatedValueUsd": 1080,
     "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
    }
   },
@@ -616,20 +616,20 @@
    "pointValueCpp": 1.3,
    "rewardCurrency": "Atmos Rewards",
    "signupBonus": {
+    "bonus": "50,000 points + $99 companion fare",
+    "spend": "$1,500 in 90 days",
+    "note": "limited-time online offer",
+    "description": "Limited-time online offer on BofA's card page: 50,000 bonus points + $99 companion fare (plus taxes/fees from $23) after $1,500 in purchases within the first 90 days",
+    "estimatedValueUsd": 720
+   },
+   "sourceNote": "seed-2026-09-27: formerly Alaska Airlines Visa Signature; 3x Alaska/Hawaiian purchases",
+   "isBusiness": false,
+   "previousSignupBonus": {
     "bonus": "70,000 points + $99 companion fare",
     "spend": "$2,500 in 90 days",
     "note": "limited-time online offer; the Alaska-page elevated up-to-80,000 offer ended",
     "description": "Limited-time online offer on BofA's card page: 70,000 bonus points + $99 companion fare (plus taxes/fees from $23) after $2,500 in purchases within the first 90 days",
     "estimatedValueUsd": 980
-   },
-   "sourceNote": "seed-2026-09-27: formerly Alaska Airlines Visa Signature; 3x Alaska/Hawaiian purchases",
-   "isBusiness": false,
-   "previousSignupBonus": {
-    "bonus": "up to 80,000 points + $99 companion fare",
-    "spend": "$3,000 in 90 days (then $5,000 total in 90 days)",
-    "description": "Elevated limited-time offer (advertised on Alaska's Atmos Rewards page since Oct 2026): 60,000 bonus points after $3,000 in 90 days, plus 20,000 more after $5,000 total in 90 days, plus a $99 companion fare",
-    "estimatedValueUsd": 1120,
-    "note": "elevated limited-time offer; BofA's standard page may still show 50,000 points after $1,500"
    }
   },
   {
@@ -887,17 +887,18 @@
    "category": "hotel",
    "isBusiness": false,
    "signupBonus": {
+    "bonus": "120,000 points",
+    "spend": "$2,000 in 3 months",
+    "description": "Earn 120,000 points after you spend $2,000 in the first 3 months, plus 10,000 more when you add an authorized user. Card refreshed and renamed October 2026.",
+    "estimatedValueUsd": 720,
+    "note": "10,000 points require adding an authorized user"
+   },
+   "previousSignupBonus": {
     "bonus": "125,000 points",
     "spend": "$2,000 in 3 months",
     "description": "Earn 125,000 points after you spend $2,000 in the first 3 months, plus 10,000 more when you add an authorized user. All-time-high offer; card refreshed and renamed October 2026.",
     "estimatedValueUsd": 750,
     "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
-   },
-   "previousSignupBonus": {
-    "bonus": "80,000 points",
-    "spend": "$2,000 in 3 months",
-    "description": "Earn 80,000 points after you spend $2,000 in 3 months",
-    "estimatedValueUsd": 480
    },
    "brand": "IHG"
   },
@@ -919,17 +920,18 @@
    "category": "hotel",
    "isBusiness": true,
    "signupBonus": {
+    "bonus": "150,000 points",
+    "spend": "$4,000 in 3 months",
+    "note": "10,000 bonus points require adding an employee card in the first 3 months",
+    "description": "Earn 150,000 bonus points after you spend $4,000 in the first 3 months, plus 10,000 more when you add an employee card.",
+    "estimatedValueUsd": 900
+   },
+   "previousSignupBonus": {
     "bonus": "190,000 points",
     "spend": "$5,000 in 3 months",
     "note": "10,000 bonus points require adding an employee card in the first 3 months; limited-time, ends 2026-11-18",
     "description": "Earn 190,000 bonus points after you spend $5,000 in the first 3 months, plus 10,000 more when you add an employee card.",
     "estimatedValueUsd": 1140
-   },
-   "previousSignupBonus": {
-    "bonus": "140,000 points",
-    "spend": "$4,000 in 3 months",
-    "description": "Earn 140,000 points after you spend $4,000 in 3 months",
-    "estimatedValueUsd": 840
    },
    "brand": "IHG",
    "hotelFreeNight": {
@@ -1632,14 +1634,21 @@
    "pointValueCpp": 0.6,
    "rewardCurrency": "IHG One Rewards",
    "signupBonus": {
+    "bonus": "150,000 points",
+    "spend": "$4,000 in 3 months",
+    "description": "Earn 150,000 bonus points after you spend $4,000 in the first 3 months from account opening, plus 10,000 more when you add an authorized user. Card launched October 2026: 60,000-point anniversary free night, $300/yr IHG F&B credits ($75/quarter), $200 airline credit, Platinum Elite status.",
+    "estimatedValueUsd": 900,
+    "note": "10,000 points require adding an authorized user"
+   },
+   "sourceNote": "added-2026-10-05: 6 independent launch sources agree on terms (NerdWallet, TPG, dannydealguru, onemileatatime, joinkudos, creditodds); applyUrl pattern-verified via HTTP 200 (content not yet read); official Chase page re-verification of offer terms still needed",
+   "isBusiness": false,
+   "previousSignupBonus": {
     "bonus": "200,000 points",
     "spend": "$5,000 in 3 months",
     "description": "Earn 200,000 bonus points after you spend $5,000 in the first 3 months from account opening, plus 10,000 more when you add an authorized user. Card launched October 2026: 60,000-point anniversary free night, $300/yr IHG F&B credits ($75/quarter), $200 airline credit, Platinum Elite status.",
     "estimatedValueUsd": 1200,
     "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
-   },
-   "sourceNote": "added-2026-10-05: 6 independent launch sources agree on terms (NerdWallet, TPG, dannydealguru, onemileatatime, joinkudos, creditodds); applyUrl pattern-verified via HTTP 200 (content not yet read); official Chase page re-verification of offer terms still needed",
-   "isBusiness": false
+   }
   },
   {
    "airlineBonusMiles": 50000,
@@ -1670,6 +1679,6 @@
   }
  ],
  "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
- "updatedAt": "2026-11-15",
+ "updatedAt": "2026-11-17",
  "version": 1
 }
