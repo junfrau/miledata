@@ -1,5 +1,5 @@
 {
- "bonusUpdatedAt": "2026-11-17",
+ "bonusUpdatedAt": "2026-11-19",
  "cards": [
   {
    "annualFee": 95,
@@ -887,17 +887,17 @@
    "category": "hotel",
    "isBusiness": false,
    "signupBonus": {
+    "bonus": "80,000 points",
+    "spend": "$2,000 in 3 months",
+    "description": "Earn 80,000 points after you spend $2,000 in the first 3 months, plus 10,000 more when you add an authorized user. Card refreshed and renamed October 2026.",
+    "estimatedValueUsd": 480,
+    "note": "10,000 points require adding an authorized user"
+   },
+   "previousSignupBonus": {
     "bonus": "120,000 points",
     "spend": "$2,000 in 3 months",
     "description": "Earn 120,000 points after you spend $2,000 in the first 3 months. Card refreshed and renamed October 2026.",
     "estimatedValueUsd": 720
-   },
-   "previousSignupBonus": {
-    "bonus": "125,000 points",
-    "spend": "$2,000 in 3 months",
-    "description": "Earn 125,000 points after you spend $2,000 in the first 3 months, plus 10,000 more when you add an authorized user. All-time-high offer; card refreshed and renamed October 2026.",
-    "estimatedValueUsd": 750,
-    "note": "10,000 points require adding an authorized user; limited-time, ends 2026-11-18"
    },
    "brand": "IHG"
   },
@@ -1678,6 +1678,6 @@
   }
  ],
  "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
- "updatedAt": "2026-11-18",
+ "updatedAt": "2026-11-19",
  "version": 1
 }
