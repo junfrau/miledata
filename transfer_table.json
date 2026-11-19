@@ -66,6 +66,18 @@
      "bonusExpires": "2026-12-01"
     },
     {
+     "ratio": "1:1",
+     "to": "Qantas Frequent Flyer",
+     "transferTime": "next business day",
+     "note": "Added Nov 18, 2026; transfer time untested on day one"
+    },
+    {
+     "ratio": "1:1",
+     "to": "Cathay Pacific Asia Miles",
+     "transferTime": "next business day",
+     "note": "Added Nov 18, 2026; transfer time untested on day one"
+    },
+    {
      "note": "4:3 for Sapphire Preferred / Ink Business Preferred / Ink Plus / Corporate Flex since Oct 1, 2026; Sapphire Reserve and Reserve for Business stay 1:1",
      "ratio": "4:3",
      "to": "World of Hyatt",
@@ -585,5 +597,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-18"
+ "updatedAt": "2026-11-19"
 }
