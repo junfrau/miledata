@@ -1,5 +1,5 @@
 {
- "bonusUpdatedAt": "2026-11-20",
+ "bonusUpdatedAt": "2026-11-21",
  "cards": [
   {
    "annualFee": 95,
@@ -702,17 +702,17 @@
    "category": "hotel",
    "isBusiness": false,
    "signupBonus": {
+    "bonus": "150,000 points + $250 statement credit",
+    "spend": "$5,000 in 6 months",
+    "description": "Earn 150,000 points + $250 statement credit after you spend $5,000 in 6 months. Limited-time offer ends 2027-01-13.",
+    "estimatedValueUsd": 1375,
+    "note": "limited-time, ends 2027-01-13"
+   },
+   "previousSignupBonus": {
     "bonus": "85,000 points",
     "spend": "$5,000 in 6 months",
     "description": "Earn 85,000 points after you spend $5,000 in 6 months. Limited-time 125,000 + $150 statement credit offer ended 2026-09-30.",
     "estimatedValueUsd": 638
-   },
-   "previousSignupBonus": {
-    "bonus": "125,000 points + $150 statement credit",
-    "spend": "$5,000 in 6 months",
-    "description": "Earn 125,000 points + $150 statement credit after you spend $5,000 in 6 months",
-    "estimatedValueUsd": 1090,
-    "note": "limited-time, ends 2026-09-30"
    },
    "brand": "Marriott"
   },
@@ -1678,6 +1678,6 @@
   }
  ],
  "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
- "updatedAt": "2026-11-20",
+ "updatedAt": "2026-11-21",
  "version": 1
 }
