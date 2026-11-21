@@ -196,6 +196,11 @@
     {
      "ratio": "4:1",
      "to": "Leading Hotels of the World"
+    },
+    {
+     "ratio": "1000:10",
+     "to": "Fanatics FanCash",
+     "note": "Added Nov 10, 2026; first non-travel MR transfer partner (Lifestyle category); 1,000 points = $10 FanCash (1c/pt); transfer time unconfirmed"
     }
    ]
   },
@@ -418,15 +423,11 @@
      "to": "Turkish Airlines Miles&Smiles"
     },
     {
-     "bonusExpires": "2026-11-20",
-     "bonusPct": 30,
      "ratio": "1:1",
      "to": "Virgin Atlantic Flying Club",
      "transferTime": "instant"
     },
     {
-     "bonusExpires": "2026-11-20",
-     "bonusPct": 30,
      "ratio": "1:1",
      "to": "Virgin Red",
      "transferTime": "instant"
@@ -597,5 +598,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-20"
+ "updatedAt": "2026-11-21"
 }
