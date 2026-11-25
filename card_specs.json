@@ -245,7 +245,7 @@
     "bonus": "75,000 miles + $300 travel credit",
     "description": "Earn 75,000 bonus miles after you spend $4,000 in the first 3 months, plus a $300 Capital One Travel credit in the first year [limited-time]",
     "estimatedValueUsd": 1688,
-    "note": "limited-time; $300 credit is first-year only",
+    "note": "limited-time; ends Dec 7, 2026; $300 credit is first-year only",
     "spend": "$4,000 in 3 months"
    },
    "sourceNote": "seed-2026-09-27: 5x hotels/cars via Capital One Travel",
@@ -1678,6 +1678,6 @@
   }
  ],
  "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
- "updatedAt": "2026-11-24",
+ "updatedAt": "2026-11-25",
  "version": 1
 }
