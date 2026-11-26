@@ -1294,7 +1294,7 @@
     "spend": "$1,000 in 3 months",
     "description": "Earn 80,000 bonus points after you spend $1,000 in the first 3 months",
     "estimatedValueUsd": 1040,
-    "note": "Limited-time offer through 12/2/2026; bonus counts toward Companion Pass (valid through 12/31/2027)"
+    "note": "Limited-time offer through 12/14/2026; bonus counts toward Companion Pass (valid through 12/31/2027)"
    },
    "previousSignupBonus": {
     "bonus": "50,000 points",
@@ -1327,7 +1327,7 @@
     "spend": "$2,000 in 3 months",
     "description": "Earn 85,000 bonus points after you spend $2,000 in the first 3 months",
     "estimatedValueUsd": 1105,
-    "note": "Limited-time offer through 12/2/2026; bonus counts toward Companion Pass (valid through 12/31/2027)"
+    "note": "Limited-time offer through 12/14/2026; bonus counts toward Companion Pass (valid through 12/31/2027)"
    },
    "previousSignupBonus": {
     "bonus": "55,000 points",
@@ -1360,7 +1360,7 @@
     "spend": "$3,000 in 3 months",
     "description": "Earn 90,000 bonus points after you spend $3,000 in the first 3 months",
     "estimatedValueUsd": 1170,
-    "note": "Limited-time offer through 12/2/2026; bonus counts toward Companion Pass (valid through 12/31/2027)"
+    "note": "Limited-time offer through 12/14/2026; bonus counts toward Companion Pass (valid through 12/31/2027)"
    },
    "previousSignupBonus": {
     "bonus": "60,000 points",
@@ -1678,6 +1678,6 @@
   }
  ],
  "notes": "Seed data for offline card-spec lookup. Travel multipliers reflect the highest commonly available rate including issuer travel portals. pointValueCpp values are third-party estimates (TPG/NerdWallet style valuations) as of Sep 2026, not issuer promises. signupBonus entries are a snapshot of publicly advertised welcome offers as of Sep 27, 2026; offers change frequently and limited-time flags may expire. Verify against issuer terms before applying.",
- "updatedAt": "2026-11-25",
+ "updatedAt": "2026-11-26",
  "version": 1
 }
